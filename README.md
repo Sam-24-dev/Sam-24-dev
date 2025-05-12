@@ -1,8 +1,8 @@
-<h1 align="left">👋 <br>Hi, I'm Samir.</h1>
+<h1 align="left">👋 <br>Hi I'm Samir.</h1>
 
 ###
 
-<p align="left">🎓 Computer Engineer (in progress) at ESPOL, currently in 3rd year.<br><br>💻 Passionate about software development, from web applications to embedded systems and automation.</p>
+<p align="left">🎓 Computer Engineer (in progress) at ESPOL, currently in 3rd year.<br>💻 Passionate about software development, from web applications to embedded systems and automation.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning: C# & C , Django & APIs REST , DevOps<br><br>  <br>     <br>🎯 Goals: Make websites and mobile applications scalable and responsive, automate processes efficiently<br>🎲 Fun fact: When I program I lose track of time</p>
+<p align="left">📚 I'm currently learning: C# & C , Django & APIs REST , DevOps<br>🎯 Goals: Make websites and mobile applications scalable and responsive, automate processes efficiently<br>🎲 Fun fact: When I program I lose track of time</p>
 
 ###
 
