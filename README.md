@@ -34,23 +34,36 @@ me.say_hi()
 
 ## 🎯 What I Do
 
-- 📊 **Database Optimization**: Achieved 40% query performance improvement through strategic indexing and query refactoring
-- 📈 **Business Intelligence**: Created interactive dashboards that identified $16.66K performance gaps and optimization opportunities
-- 🌾 **Predictive Analytics**: Improved agricultural ROI from -5.58% to +15% projection using data-driven insights
-- 🔬 **Statistical Analysis**: Validated models with 309+ observations using hypothesis testing and correlation analysis
+- 📊 **Database Optimization**: Achieved 40% query performance improvement through strategic indexing
+- 📈 **Business Intelligence**: Created interactive dashboards that identified $16.66K performance gaps
+- 🌾 **Predictive Analytics**: Improved agricultural ROI from -5.58% to +15% projection (+20.6 points)
+- 🔬 **Statistical Analysis**: Validated models with 309+ observations using hypothesis testing
 - 🌍 **NASA Space Apps Challenge 2025**: Built weather probability application using 10 years of NASA Earth observation data
 
 ---
 
 ## 💼 Featured Projects
 
-### 🛰️ [NASA Space Apps Challenge 2025 - ProbabiliTeam](https://javaguti25.pythonanywhere.com/)
+### 🛰️ NASA Space Apps Challenge 2025 - ProbabiliTeam
 **Historical Weather Probabilities Application**
+
+<div align="center">
+
+[![Video Demo](https://img.shields.io/badge/▶️_Video_Demo-Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=519T9N7JkZU)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JairPalaguachi/Probability)
+[![Certificate](https://img.shields.io/badge/🏆_Certificate-Galactic_Problem_Solver-FCD116?style=for-the-badge)](https://portafolio-samir-tau.vercel.app/)
+
+</div>
+
 - 🏆 Participant at NASA Space Apps Challenge Guayaquil 2025 (48-hour hackathon)
 - 🌐 Interactive web app analyzing 10 years of NASA satellite data for extreme weather predictions
 - 📍 Global coverage with Leaflet maps and reverse geocoding
 - 📊 5 extreme conditions tracked: very hot, cold, windy, humid, inclement
-- **Tech**: Python, Flask, React, TypeScript, Meteomatics API, Recharts
+- **Tech**: Python, Flask, React, TypeScript, Meteomatics API, Pandas, Plotly, Leaflet, Recharts
+
+> **Note**: Demo was built during the hackathon using Meteomatics API (trial expired). Full functionality showcased in the video demonstration above.
+
+---
 
 ### 🎮 [eSports Analytics Dashboard](https://sam-24-dev.github.io/eSports-Analytics-Dashboard/)
 **Multi-dimensional eSports Performance Analysis**
@@ -64,6 +77,7 @@ me.say_hi()
 - 💰 ROI improvement: -5.58% → +15% projection (+20.6 points)
 - 💵 $3,500 projected return on investment
 - 📊 15+ interactive visualizations for decision-making
+- 📑 [Analysis Report](https://sam-24-dev.github.io/Analisis-Cultivo-Arroz/)
 - **Tech**: MySQL, Python, Pandas, Plotly, Bootstrap, Jupyter
 
 ### 🏓 [Statistical Analysis - Ping Pong Precision](https://sam-24-dev.github.io/Analisis-Ping-Pong/)
@@ -164,6 +178,24 @@ const currentGoals = {
 - 🔬 **309** observations validated in statistical modeling
 - 🏆 **NASA Space Apps Challenge 2025** participant with working prototype
 - 🌍 **10 years** of historical NASA data processed for weather predictions
+
+---
+
+## 🎥 Project Demonstrations
+
+### NASA Space Apps Challenge 2025 - Full Presentation
+
+Watch the complete 30-second project demonstration presented to NASA judges during the 48-hour hackathon:
+
+<div align="center">
+
+[![Watch the video](https://img.youtube.com/vi/519T9N7JkZU/maxresdefault.jpg)](https://www.youtube.com/watch?v=519T9N7JkZU)
+
+**[▶️ Click to watch on YouTube](https://www.youtube.com/watch?v=519T9N7JkZU)**
+
+*Full project functionality demonstration including live API integration, interactive maps, and probability calculations*
+
+</div>
 
 ---
 
