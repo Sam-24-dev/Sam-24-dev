@@ -3,7 +3,7 @@
 <div align="center">
 
   <a href="https://portafolio-samir-tau.vercel.app/">
-    <img src="./banner.jpg" alt="Portfolio Banner" width="100%" />
+    <img src="./banner.png" alt="Portfolio Banner" width="100%" />
   </a>
 
   <br><br>
