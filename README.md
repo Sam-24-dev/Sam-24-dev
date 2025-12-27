@@ -2,39 +2,39 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-samir-tau.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/👔_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samircaizapasto/)
-[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samir.leonardo.caizapasto04@gmail.com)
+[![Portfolio](https://img.shields.io/badge/_Portfolio-Visit_Site-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-samir-tau.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samircaizapasto/)
+[![Email](https://img.shields.io/badge/_Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samir.leonardo.caizapasto04@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-**Junior Data Engineer & Analyst** | **Computer Engineering Student (7th Semester)** | **ESPOL**
+**Junior Data Engineer & Analyst** | **Computer Engineering Student 7th Semester** | **ESPOL**
 
 I am an engineer focused on the **complete data lifecycle**: from building robust architectures (ETL/SQL) to analyzing trends and deploying Machine Learning models. 
 
 Unlike a traditional analyst, my technical background allows me to not only visualize data but also **build and optimize the systems behind it**. My goal is to transform complex raw data into clear, actionable strategies that drive business growth.
 
-### 💡 What I Bring to the Table:
+###  What I Bring to the Table:
 * **Data Engineering:** Automating ETL pipelines and optimizing database queries (40% perfomance boost).
 * **Machine Learning:** Building predictive models for dynamic pricing and real-world scenarios.
 * **Business Intelligence:** Identifying financial gaps ($16k+) and visualizing KPIs for decision-making.
 
 ---
 
-## 🏆 Featured Project (New!)
+##  Featured Project 
 
-### 🚖 [RideFare: ETL Pipeline & Predictive Price Modeling](https://github.com/Sam-24-dev/RideFare-ETL-Pipeline)
+###  [RideFare: ETL Pipeline & Predictive Price Modeling](https://github.com/Sam-24-dev/RideFare-ETL-Pipeline)
 **End-to-End Data Engineering & Machine Learning Project**
 
 > *Simulating price optimization for ride-hailing apps (Uber/Lyft) using a pipeline that processes 1.2 Million records.*
 
-* **🛠 ETL Architecture:** Developed an automated Python pipeline to ingest, clean, and transform **1.2 Million raw records**.
-* **🗄️ SQL Migration:** Migrated flat file storage (CSV) to a relational database (SQLite), optimizing queries via complex JOINs.
-* **🤖 Machine Learning:** Trained a **Random Forest Regressor** to predict dynamic pricing based on distance and surge multipliers.
+* ** ETL Architecture:** Developed an automated Python pipeline to ingest, clean, and transform **1.2 Million raw records**.
+* ** SQL Migration:** Migrated flat file storage (CSV) to a relational database (SQLite), optimizing queries via complex JOINs.
+* ** Machine Learning:** Trained a **Random Forest Regressor** to predict dynamic pricing based on distance and surge multipliers.
 * **Tech Stack:** Python, SQL, Pandas, Scikit-Learn, Matplotlib.
 
 <div align="center">
@@ -45,39 +45,39 @@ Unlike a traditional analyst, my technical background allows me to not only visu
 
 ---
 
-## 💼 Other Key Projects
+##  Other Key Projects
 
-### 🛰️ [NASA Space Apps Challenge 2025 - "Weather for All"](https://github.com/JairPalaguachi/Probability)
+###  [NASA Space Apps Challenge 2025 - "Weather for All"](https://github.com/JairPalaguachi/Probability)
 **Award: Galactic Problem Solver (Global Nominee)**
 * **Innovation:** Built a full-stack web app analyzing **10 years of NASA satellite data** to predict extreme weather probabilities globally.
 * **Impact:** Developed in a 48-hour hackathon. Features interactive maps and real-time API integration.
 * **Tech:** Python (Flask), React, TypeScript, Leaflet, Plotly.
 * [▶️ Watch Demo Video](https://www.youtube.com/watch?v=519T9N7JkZU)
 
-### 🌾 [Rice Crop Management System](https://sam-24-dev.github.io/Sistema-Cultivo-Arroz/)
+###  [Rice Crop Management System](https://sam-24-dev.github.io/Sistema-Cultivo-Arroz/)
 **Predictive Analytics for Agriculture**
 * **Result:** Projected an **ROI improvement from -5.58% to +15%** (+20.6 points) using historical data analysis.
 * **Tech:** MySQL, Python, Pandas, Bootstrap.
 
-### 🎮 [eSports Analytics Dashboard](https://sam-24-dev.github.io/eSports-Analytics-Dashboard/)
+###  [eSports Analytics Dashboard](https://sam-24-dev.github.io/eSports-Analytics-Dashboard/)
 **Database Optimization & Visualization**
 * **Achievement:** Achieved **40% faster query execution** through strategic database indexing and normalization.
 * **Scope:** Analyzed performance of 15 teams across 8 LATAM countries.
 * **Tech:** Advanced SQL, JavaScript, Chart.js.
 
-### 🛒 [Grocery Sales BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTk5YTE0MjItZTNiOC00ZmI0LWI1NDUtZDY2ZThjZTYxYmQ0IiwidCI6ImI3YWY4Y2FmLTgzZDgtNDY0NC04NWFlLTMxN2M1NDUyMjNjMSIsImMiOjR9)
+###  [Grocery Sales BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTk5YTE0MjItZTNiOC00ZmI0LWI1NDUtZDY2ZThjZTYxYmQ0IiwidCI6ImI3YWY4Y2FmLTgzZDgtNDY0NC04NWFlLTMxN2M1NDUyMjNjMSIsImMiOjR9)
 **Business Intelligence**
 * **Insight:** Identified a **$16.66K performance gap** between sales teams.
 * **Tech:** Power BI, DAX, Excel.
 
-### 🏓 [Statistical Analysis - Ping Pong Precision](https://sam-24-dev.github.io/Analisis-Ping-Pong/)
+###  [Statistical Analysis - Ping Pong Precision](https://sam-24-dev.github.io/Analisis-Ping-Pong/)
 **Scientific Research**
 * **Validation:** Validated a Negative Binomial model with **309 observations** (p-value = 0.660).
 * **Tech:** R, RMarkdown, Inferential Statistics.
 
 ---
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 ### **Data Engineering & Analysis**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -100,7 +100,7 @@ Unlike a traditional analyst, my technical background allows me to not only visu
 
 ---
 
-## 🎓 Education
+##  Education
 
 * **Ingeniería en Computación** | ESPOL (2023 - Present)
     * *Focus: Data Structures, Algorithms, Software Engineering.*
@@ -109,13 +109,17 @@ Unlike a traditional analyst, my technical background allows me to not only visu
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sam-24-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sam-24-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-24-dev&layout=compact&theme=tokyonight&hide_border=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-24-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
