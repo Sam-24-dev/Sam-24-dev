@@ -3,7 +3,7 @@
 <div align="center">
 
   <a href="https://portafolio-samir-tau.vercel.app/">
-    <img src="https://via.placeholder.com/800x200.png?text=Clic+aquí+para+ver+mi+Portafolio+Web" alt="Portfolio Banner" width="100%" />
+    <img src="./banner.jpg" alt="Portfolio Banner" width="100%" />
   </a>
 
   <br><br>
@@ -23,6 +23,7 @@
 </div>
 
 ---
+
 
 ##  About Me
 
