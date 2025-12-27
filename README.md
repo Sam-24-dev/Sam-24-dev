@@ -1,24 +1,22 @@
-#  Hi, I'm Samir Caizapasto Hernández
-
 <div align="center">
 
   <a href="https://portafolio-samir-tau.vercel.app/">
-    <img src="./banner.png" alt="Portfolio Banner" width="100%" />
+    <img src="./banner.png" alt="Samir Caizapasto - Data Analysis Specialist" width="100%" />
   </a>
 
-  <br><br>
+  <br>
 
-  <a href="https://portafolio-samir-tau.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Mi_Portafolio-Ver_Web-success?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/samircaizapasto/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:samir.leonardo.caizapasto04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://portafolio-samir-tau.vercel.app/">
+      <img src="https://img.shields.io/badge/🌐_Mi_Portafolio-Ver_Web-success?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/samircaizapasto/">
+      <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:samir.leonardo.caizapasto04@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </div>
 
 </div>
 
