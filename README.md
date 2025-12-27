@@ -1,10 +1,24 @@
 # 👋 Hi, I'm Samir Caizapasto
 
 <div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/_Portfolio-Visit_Site-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-samir-tau.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samircaizapasto/)
-[![Email](https://img.shields.io/badge/_Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samir.leonardo.caizapasto04@gmail.com)
+
+  <a href="https://portafolio-samir-tau.vercel.app/">
+    <img src="https://via.placeholder.com/800x200.png?text=Clic+aquí+para+ver+mi+Portafolio+Web" alt="Portfolio Banner" width="100%" />
+  </a>
+
+  <br><br>
+
+  <a href="https://portafolio-samir-tau.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Mi_Portafolio-Ver_Web-success?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/samircaizapasto/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:samir.leonardo.caizapasto04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
 </div>
 
@@ -25,7 +39,7 @@ Unlike a traditional analyst, my technical background allows me to not only visu
 
 ---
 
-##  Featured Project 
+##  Featured Project New!
 
 ###  [RideFare: ETL Pipeline & Predictive Price Modeling](https://github.com/Sam-24-dev/RideFare-ETL-Pipeline)
 **End-to-End Data Engineering & Machine Learning Project**
@@ -100,25 +114,18 @@ Unlike a traditional analyst, my technical background allows me to not only visu
 
 ---
 
-##  Education
-
-* **Ingeniería en Computación** | ESPOL (2023 - Present)
-    * *Focus: Data Structures, Algorithms, Software Engineering.*
-* **Bootcamp: Data Analytics & Business Intelligence** | ESPOL
-    * *Focus: Full Data Lifecycle (Excel, SQL, Python, Power BI, Gen AI).*
-
----
-
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sam-24-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-24-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-24-dev&layout=compact&theme=tokyonight&hide_border=true" />
+<br>
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-24-dev&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
