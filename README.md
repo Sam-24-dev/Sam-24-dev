@@ -22,75 +22,121 @@
 
 ---
 
+## 🚀 About Me
 
-##  About Me
-
-**Junior Data Engineer & Analyst** | **Computer Engineering Student 7th Semester** | **ESPOL**
+**Junior Data Engineer & Analyst** | **Computer Engineering Student (7th Semester)** | **ESPOL**
 
 I am an engineer focused on the **complete data lifecycle**: from building robust architectures (ETL/SQL) to analyzing trends and deploying Machine Learning models. 
 
 Unlike a traditional analyst, my technical background allows me to not only visualize data but also **build and optimize the systems behind it**. My goal is to transform complex raw data into clear, actionable strategies that drive business growth.
 
-###  What I Bring to the Table:
+### 💡 What I Bring to the Table:
 * **Data Engineering:** Automating ETL pipelines and optimizing database queries (40% perfomance boost).
 * **Machine Learning:** Building predictive models for dynamic pricing and real-world scenarios.
 * **Business Intelligence:** Identifying financial gaps ($16k+) and visualizing KPIs for decision-making.
 
 ---
 
-##  Featured Project New!
+## 🏆 Featured Project (New!)
 
-###  [RideFare: ETL Pipeline & Predictive Price Modeling](https://github.com/Sam-24-dev/RideFare-ETL-Pipeline)
+### 🚖 [RideFare: ETL Pipeline & Predictive Price Modeling](https://github.com/Sam-24-dev/RideFare-ETL-Pipeline)
 **End-to-End Data Engineering & Machine Learning Project**
 
 > *Simulating price optimization for ride-hailing apps (Uber/Lyft) using a pipeline that processes 1.2 Million records.*
 
-* ** ETL Architecture:** Developed an automated Python pipeline to ingest, clean, and transform **1.2 Million raw records**.
-* ** SQL Migration:** Migrated flat file storage (CSV) to a relational database (SQLite), optimizing queries via complex JOINs.
-* ** Machine Learning:** Trained a **Random Forest Regressor** to predict dynamic pricing based on distance and surge multipliers.
+* **🛠 ETL Architecture:** Developed an automated Python pipeline to ingest, clean, and transform **1.2 Million raw records**.
+* **🗄️ SQL Migration:** Migrated flat file storage (CSV) to a relational database (SQLite), optimizing queries via complex JOINs.
+* **🤖 Machine Learning:** Trained a **Random Forest Regressor** to predict dynamic pricing based on distance and surge multipliers.
 * **Tech Stack:** Python, SQL, Pandas, Scikit-Learn, Matplotlib.
 
 <div align="center">
   
-[![View Code](https://img.shields.io/badge/GitHub-View_Project_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sam-24-dev/RideFare-ETL-Pipeline)
+  <a href="https://github.com/Sam-24-dev/RideFare-ETL-Pipeline">
+    <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
 </div>
 
 ---
 
-##  Other Key Projects
+## 💼 Other Key Projects
 
-###  [NASA Space Apps Challenge 2025 - "Weather for All"](https://github.com/JairPalaguachi/Probability)
+### 🛰️ [NASA Space Apps Challenge 2025 - "Weather for All"](https://github.com/JairPalaguachi/Probability)
 **Award: Galactic Problem Solver (Global Nominee)**
 * **Innovation:** Built a full-stack web app analyzing **10 years of NASA satellite data** to predict extreme weather probabilities globally.
 * **Impact:** Developed in a 48-hour hackathon. Features interactive maps and real-time API integration.
 * **Tech:** Python (Flask), React, TypeScript, Leaflet, Plotly.
-* [▶️ Watch Demo Video](https://www.youtube.com/watch?v=519T9N7JkZU)
 
-###  [Rice Crop Management System](https://sam-24-dev.github.io/Sistema-Cultivo-Arroz/)
+<div align="center">
+  <a href="https://github.com/JairPalaguachi/Probability">
+    <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/watch?v=519T9N7JkZU">
+    <img src="https://img.shields.io/badge/YouTube-Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</div>
+
+### 🌾 [Rice Crop Management System](https://sam-24-dev.github.io/Sistema-Cultivo-Arroz/)
 **Predictive Analytics for Agriculture**
 * **Result:** Projected an **ROI improvement from -5.58% to +15%** (+20.6 points) using historical data analysis.
 * **Tech:** MySQL, Python, Pandas, Bootstrap.
 
-###  [eSports Analytics Dashboard](https://sam-24-dev.github.io/eSports-Analytics-Dashboard/)
+<div align="center">
+  <a href="https://github.com/Sam-24-dev/Sistema-Cultivo-Arroz">
+    <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://sam-24-dev.github.io/Sistema-Cultivo-Arroz/">
+    <img src="https://img.shields.io/badge/Website-Live_Dashboard-2EA44F?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</div>
+
+### 🎮 [eSports Analytics Dashboard](https://sam-24-dev.github.io/eSports-Analytics-Dashboard/)
 **Database Optimization & Visualization**
 * **Achievement:** Achieved **40% faster query execution** through strategic database indexing and normalization.
 * **Scope:** Analyzed performance of 15 teams across 8 LATAM countries.
 * **Tech:** Advanced SQL, JavaScript, Chart.js.
 
-###  [Grocery Sales BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTk5YTE0MjItZTNiOC00ZmI0LWI1NDUtZDY2ZThjZTYxYmQ0IiwidCI6ImI3YWY4Y2FmLTgzZDgtNDY0NC04NWFlLTMxN2M1NDUyMjNjMSIsImMiOjR9)
+<div align="center">
+  <a href="https://github.com/Sam-24-dev/eSports-Analytics-Dashboard">
+    <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://sam-24-dev.github.io/eSports-Analytics-Dashboard/">
+    <img src="https://img.shields.io/badge/Website-Live_Demo-2EA44F?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</div>
+
+### 🛒 [Grocery Sales BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTk5YTE0MjItZTNiOC00ZmI0LWI1NDUtZDY2ZThjZTYxYmQ0IiwidCI6ImI3YWY4Y2FmLTgzZDgtNDY0NC04NWFlLTMxN2M1NDUyMjNjMSIsImMiOjR9)
 **Business Intelligence**
 * **Insight:** Identified a **$16.66K performance gap** between sales teams.
 * **Tech:** Power BI, DAX, Excel.
 
-###  [Statistical Analysis - Ping Pong Precision](https://sam-24-dev.github.io/Analisis-Ping-Pong/)
+<div align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiOTk5YTE0MjItZTNiOC00ZmI0LWI1NDUtZDY2ZThjZTYxYmQ0IiwidCI6ImI3YWY4Y2FmLTgzZDgtNDY0NC04NWFlLTMxN2M1NDUyMjNjMSIsImMiOjR9">
+    <img src="https://img.shields.io/badge/Power_BI-Interactive_Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  </a>
+</div>
+
+### 🏓 [Statistical Analysis - Ping Pong Precision](https://sam-24-dev.github.io/Analisis-Ping-Pong/)
 **Scientific Research**
 * **Validation:** Validated a Negative Binomial model with **309 observations** (p-value = 0.660).
 * **Tech:** R, RMarkdown, Inferential Statistics.
 
+<div align="center">
+  <a href="https://github.com/Sam-24-dev/Analisis-Ping-Pong">
+    <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://sam-24-dev.github.io/Analisis-Ping-Pong/">
+    <img src="https://img.shields.io/badge/Report-Read_Analysis-0078D4?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+</div>
+
 ---
 
-##  Technical Stack
+## 🛠️ Technical Stack
 
 ### **Data Engineering & Analysis**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
