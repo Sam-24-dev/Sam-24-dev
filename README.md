@@ -10,7 +10,7 @@
     <a href="https://portafolio-samir-tau.vercel.app/">
       <img src="https://img.shields.io/badge/🌐_Mi_Portafolio-Ver_Web-success?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/samircaizapasto/">
+    <a href="https://www.linkedin.com/in/samir-caizapasto/">
       <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:samir.leonardo.caizapasto04@gmail.com">
@@ -183,6 +183,6 @@ Unlike a traditional analyst, my technical background allows me to not only visu
 
 I'm actively seeking **Junior Data Engineer** or **Data Analyst** roles.
 
-[![](https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samircaizapasto/)
+[![](https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samir-caizapasto/)
 
 </div>
