@@ -26,7 +26,7 @@
 
 ## 👋 About Me
 
-> *"I don't just analyze data — I build the systems that make analysis possible."*
+> *I don't just analyze data. I build the systems that make analysis possible.*
 
 **Junior Data Engineer & Analyst** | **7th Semester @ ESPOL, Ecuador**
 
