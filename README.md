@@ -41,6 +41,29 @@ Unlike a traditional analyst, my technical background allows me to not only visu
 
 ---
 
+## 🔭 Currently
+
+<table>
+  <tr>
+    <td>🔨 <b>Building</b></td>
+    <td><a href="https://github.com/Sam-24-dev/Technology-trend-analysis-platform"><b>Technology Trend Analysis Platform</b></a> — End-to-end data pipeline that tracks tech trends across GitHub, StackOverflow & Reddit. Features a Python ETL with Pandera quality gates, DuckDB trend engine, and Flutter Web dashboard.</td>
+  </tr>
+  <tr>
+    <td>📚 <b>Learning</b></td>
+    <td><b>Cloud (AWS/GCP) & dbt</b></td>
+  </tr>
+  <tr>
+    <td>👀 <b>Open to</b></td>
+    <td><b>Junior Data Engineer / Data Analyst roles</b></td>
+  </tr>
+  <tr>
+    <td>📍 <b>Based in</b></td>
+    <td><b>Guayaquil, Ecuador</b></td>
+  </tr>
+</table>
+
+---
+
 ##  Featured Project (New!)
 
 ###  [RideFare: ETL Pipeline & Predictive Price Modeling](https://github.com/Sam-24-dev/RideFare-ETL-Pipeline)
