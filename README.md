@@ -19,7 +19,9 @@
   </div>
 
 </div>
-
+---
+![Profile Views](https://komarev.com/ghpvc/?username=Sam-24-dev&color=blueviolet&style=flat-square&label=Profile+Views)
+---
 ---
 
 ##  About Me
