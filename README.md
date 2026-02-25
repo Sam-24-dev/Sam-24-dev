@@ -3,7 +3,6 @@
   <a href="https://portafolio-samir-tau.vercel.app/">
     <img src="./banner.png" alt="Samir Caizapasto - Data Analysis Specialist" width="100%" />
   </a>
-
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Sam-24-dev&color=blueviolet&style=flat-square&label=Profile+Views)
 
@@ -25,9 +24,11 @@
 
 ---
 
-##  About Me
+## 👋 About Me
 
-**Junior Data Engineer & Analyst** | **Computer Engineering Student (7th Semester)** | **ESPOL**
+> *"I don't just analyze data — I build the systems that make analysis possible."*
+
+**Junior Data Engineer & Analyst** | **7th Semester @ ESPOL, Ecuador**
 
 I am an engineer focused on the **complete data lifecycle**: from building robust architectures (ETL/SQL) to analyzing trends and deploying Machine Learning models. 
 
