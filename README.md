@@ -161,17 +161,10 @@ Unlike a traditional analyst, my technical background allows me to not only visu
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-24-dev&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-24-dev&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" />
 
-<br>
-
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-24-dev&theme=tokyonight&hide_border=true" />
-</a>
+<img height="160em" src="https://streak-stats.demolab.com/?user=Sam-24-dev&theme=tokyonight&hide_border=true" />
 
 </div>
 
