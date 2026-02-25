@@ -4,7 +4,7 @@
     <img src="./banner.png" alt="Samir Caizapasto - Data Analysis Specialist" width="100%" />
   </a>
 
-  <!-- Al inicio del README, debajo del banner -->
+  
   ![Profile Views](https://komarev.com/ghpvc/?username=Sam-24-dev&color=blueviolet&style=flat-square&label=Profile+Views)
 
   <br>
