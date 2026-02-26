@@ -214,43 +214,16 @@ Unlike a traditional analyst, my technical background allows me to not only visu
   </tr>
 </table>
 
-[//]: # (wakatime-stats)
+## ⏱️ Weekly Coding Activity
 
-### Wakatime Stats
-```
-+------- Last 7 Days Stats for Programming Languages --------+
-| Programming Languages     | Total Hours                    |
-+---------------------------+--------------------------------+
-| Dart                      |            14 mins             |
-| Python                    |             4 mins             |
-| Markdown                  |             0 secs             |
-+---------------------------+--------------------------------+
+<div align="center">
 
+> *Real-time stats powered by [WakaTime](https://wakatime.com) — tracking every line of code I write.*
 
-+-------------- Last 7 Days Stats for Editors ---------------+
-| Editors                   | Total Hours                    |
-+---------------------------+--------------------------------+
-| VS Code                   |            18 mins             |
-+---------------------------+--------------------------------+
-
-
-+--------- Last 7 Days Stats for Operating Systems ----------+
-| Operating Systems         | Total Hours                    |
-+---------------------------+--------------------------------+
-| Windows                   |            18 mins             |
-+---------------------------+--------------------------------+
-```
-
-[//]: # (end-wakatime-stats)
-
-
-
-
-
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </div>
-
 ---
 
 <div align="center">
