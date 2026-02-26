@@ -190,7 +190,7 @@ Unlike a traditional analyst, my technical background allows me to not only visu
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-24-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-24-dev&layout=donut&theme=tokyonight&hide_border=true&cache_seconds=86400&langs_count=6" />
 
 <img height="160em" src="https://streak-stats.demolab.com/?user=Sam-24-dev&theme=tokyonight&hide_border=true" />
 
