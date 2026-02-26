@@ -214,12 +214,6 @@ Unlike a traditional analyst, my technical background allows me to not only visu
   </tr>
 </table>
 
-## ⏱️ Weekly Coding Activity
-
-<div align="center">
-
-> *Real-time stats powered by [WakaTime](https://wakatime.com) — tracking every line of code I write.*
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-33%20mins-blue?style=flat)
 
@@ -261,7 +255,6 @@ Technology-trend-analysis18 mins             ███████████�
 <!--END_SECTION:waka-->
 
 </div>
----
 
 <div align="center">
 
