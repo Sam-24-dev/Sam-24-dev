@@ -1,4 +1,4 @@
-name: Wakatime Stats
+name: Waka Readme Stats
 
 on:
   workflow_dispatch:
@@ -6,19 +6,26 @@ on:
     - cron: '0 0 * * *'
 
 jobs:
-  update-readme-with-wakatime-stats:
-    name: Update README with Wakatime stats
+  update-readme:
+    name: Update Readme with Wakatime Stats
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - uses: claserre9/wakatime-stats@master
+      - name: Update Readme with Wakatime Stats
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          WAKATIME_USER_ID: ${{ secrets.WAKATIME_USER_ID }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          TABLE_STYLE: 'default'
-          MAX_LANGUAGES: '5'
-          WAKATIME_TIME_RANGE: 'last_7_days'
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_EDITORS: "False"
+          SHOW_TIMEZONE: "False"
+          SHOW_LANGUAGE: "True"
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_SHORT_INFO: "True"
+          SHOW_LOC_CHART: "False"
+          LOCALE: "en"
+          COMMIT_MESSAGE: "📊 Update WakaTime stats"
