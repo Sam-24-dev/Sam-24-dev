@@ -188,10 +188,34 @@ Unlike a traditional analyst, my technical background allows me to not only visu
 
 ## 📊 GitHub Stats
 
+<div align="center">
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-24-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 <img height="160em" src="https://streak-stats.demolab.com/?user=Sam-24-dev&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## ⏱️ Weekly Coding Activity
+
+<div align="center">
+
+> *Real-time stats powered by [WakaTime](https://wakatime.com) — tracking every line of code I write.*
+
+<table>
+  <tr>
+    <td>
+      <a href="https://wakatime.com/@Sam-24-dev">
+        <img src="https://img.shields.io/badge/⏱️_WakaTime-Tracking_Active-blueviolet?style=for-the-badge&logo=wakatime&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+[//]: # (wakatime-stats)
+[//]: # (end-wakatime-stats)
 
 </div>
 
