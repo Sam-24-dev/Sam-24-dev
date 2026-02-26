@@ -215,7 +215,27 @@ Unlike a traditional analyst, my technical background allows me to not only visu
 </table>
 
 [//]: # (wakatime-stats)
+
+### Wakatime Stats
+```
++------- Last 7 Days Stats for Programming Languages --------+
+| Programming Languages     | Total Hours                    |
++---------------------------+--------------------------------+
+
+
++-------------- Last 7 Days Stats for Editors ---------------+
+| Editors                   | Total Hours                    |
++---------------------------+--------------------------------+
+
+
++--------- Last 7 Days Stats for Operating Systems ----------+
+| Operating Systems         | Total Hours                    |
++---------------------------+--------------------------------+
+```
+
 [//]: # (end-wakatime-stats)
+
+
 
 </div>
 
