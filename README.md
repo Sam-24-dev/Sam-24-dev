@@ -1,13 +1,245 @@
-# Project Title
+<div align="center">
 
-## Data Engineering & Analysis
+  <a href="https://portafolio-samir-tau.vercel.app/">
+    <img src="./banner.png" alt="Samir Caizapasto - Data Analysis Specialist" width="100%" />
+  </a>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Sam-24-dev&color=blueviolet&style=flat-square&label=Profile+Views)
 
-![DuckDB](https://img.shields.io/badge/Database-DuckDB-blue)
-![Pandera](https://img.shields.io/badge/Validation-Pandera-blue)
+  <br>
+
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://portafolio-samir-tau.vercel.app/">
+      <img src="https://img.shields.io/badge/🌐_Mi_Portafolio-Ver_Web-success?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/samir-caizapasto/">
+      <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:samir.leonardo.caizapasto04@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </div>
+
+</div>
+
+---
+
+## 👋 About Me
+
+> *I don't just analyze data. I build the systems that make analysis possible.*
+
+**Junior Data Engineer & Analyst** | **7th Semester  ESPOL, Ecuador**
+
+I am an engineer focused on the **complete data lifecycle**: from building robust architectures (ETL/SQL) to analyzing trends and deploying Machine Learning models. 
+
+Unlike a traditional analyst, my technical background allows me to not only visualize data but also **build and optimize the systems behind it**. My goal is to transform complex raw data into clear, actionable strategies that drive business growth.
+
+### 💼 What I Bring to the Table:
+* **Data Engineering:** Automating ETL pipelines and optimizing database queries (40% perfomance boost).
+* **Machine Learning:** Building predictive models for dynamic pricing and real-world scenarios.
+* **Business Intelligence:** Identifying financial gaps ($16k+) and visualizing KPIs for decision-making.
+
+---
+
+## 🔭 Currently
+
+<table>
+  <tr>
+    <td>🔨 <b>Building</b></td>
+    <td><a href="https://github.com/Sam-24-dev/Technology-trend-analysis-platform"><b>Technology Trend Analysis Platform</b></a> — End-to-end data pipeline that tracks tech trends across GitHub, StackOverflow & Reddit. Features a Python ETL with Pandera quality gates, DuckDB trend engine, and Flutter Web dashboard.</td>
+  </tr>
+  <tr>
+    <td>📚 <b>Learning</b></td>
+    <td><b>Cloud (AWS/GCP) & dbt</b></td>
+  </tr>
+  <tr>
+    <td>👀 <b>Open to</b></td>
+    <td><b>Junior Data Engineer / Data Analyst roles</b></td>
+  </tr>
+  <tr>
+    <td>📍 <b>Based in</b></td>
+    <td><b>Guayaquil, Ecuador</b></td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Certifications & Awards
+
+<div align="center">
+
+| 🎖️ Certification / Award | 🏢 Issuer | 📅 | 🔗 |
+|:---|:---|:---:|:---:|
+| 🌍 **Galactic Problem Solver** — Global Nominee | NASA Space Apps Challenge | Oct 2025 | [📄 Certificate](https://portafolio-samir-tau.vercel.app/certificates/nasa-space-apps-2025.pdf) |
+| 📊 **PL-300: Power BI Data Analyst** *(In Progress)* | Microsoft | 2026 | 🔄 |
+| 📗 **MO-210: Excel Associate** *(In Progress)* | Microsoft | 2026 | 🔄 |
+
+</div>
+
+---
+
+## 🚀 Featured Project — Highlight
+
+### 🔷 [RideFare: ETL Pipeline & Predictive Price Modeling](https://github.com/Sam-24-dev/RideFare-ETL-Pipeline)
+**End-to-End Data Engineering & Machine Learning Project**
+
+> *Simulating price optimization for ride-hailing apps (Uber/Lyft) using a pipeline that processes 1.2 Million records.*
+
+* **🔧 ETL Architecture:** Developed an automated Python pipeline to ingest, clean, and transform **1.2 Million raw records**.
+* **🗄️ SQL Migration:** Migrated flat file storage (CSV) to a relational database (SQLite), optimizing queries via complex JOINs.
+* **🤖 Machine Learning:** Trained a **Random Forest Regressor** to predict dynamic pricing based on distance and surge multipliers.
+* **Tech Stack:** Python, SQL, Pandas, Scikit-Learn, Matplotlib.
+
+<div align="center">
+  
+  <a href="https://github.com/Sam-24-dev/RideFare-ETL-Pipeline">
+    <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+</div>
+
+---
+
+## 📁 Other Key Projects
+
+### 🛰️ [NASA Space Apps Challenge 2025 - "Weather for All"](https://github.com/JairPalaguachi/Probability)
+**Award: Galactic Problem Solver (Global Nominee)**
+* **Innovation:** Built a full-stack web app analyzing **10 years of NASA satellite data** to predict extreme weather probabilities globally.
+* **Impact:** Developed in a 48-hour hackathon. Features interactive maps and real-time API integration.
+* **Tech:** Python (Flask), React, TypeScript, Leaflet, Plotly.
+
+<div align="center">
+  <a href="https://github.com/JairPalaguachi/Probability">
+    <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/watch?v=519T9N7JkZU">
+    <img src="https://img.shields.io/badge/YouTube-Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</div>
+
+### 🌾 [Rice Crop Management System](https://sam-24-dev.github.io/Sistema-Cultivo-Arroz/)
+**Predictive Analytics for Agriculture**
+* **Result:** Projected an **ROI improvement from -5.58% to +15%** (+20.6 points) using historical data analysis.
+* **Tech:** MySQL, Python, Pandas, Bootstrap.
+
+<div align="center">
+  <a href="https://github.com/Sam-24-dev/Sistema-Cultivo-Arroz">
+    <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://sam-24-dev.github.io/Sistema-Cultivo-Arroz/">
+    <img src="https://img.shields.io/badge/Website-Live_Dashboard-2EA44F?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</div>
+
+### 🎮 [eSports Analytics Dashboard](https://sam-24-dev.github.io/eSports-Analytics-Dashboard/)
+**Database Optimization & Visualization**
+* **Achievement:** Achieved **40% faster query execution** through strategic database indexing and normalization.
+* **Scope:** Analyzed performance of 15 teams across 8 LATAM countries.
+* **Tech:** Advanced SQL, JavaScript, Chart.js.
+
+<div align="center">
+  <a href="https://github.com/Sam-24-dev/eSports-Analytics-Dashboard">
+    <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://sam-24-dev.github.io/eSports-Analytics-Dashboard/">
+    <img src="https://img.shields.io/badge/Website-Live_Demo-2EA44F?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</div>
+
+### 🛒 [Grocery Sales BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTk5YTE0MjItZTNiOC00ZmI0LWI1NDUtZDY2ZThjZTYxYmQ0IiwidCI6ImI3YWY4Y2FmLTgzZDgtNDY0NC04NWFlLTMxN2M1NDUyMjNjMSIsImMiOjR9)
+**Business Intelligence**
+* **Insight:** Identified a **$16.66K performance gap** between sales teams.
+* **Tech:** Power BI, DAX, Excel.
+
+<div align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiOTk5YTE0MjItZTNiOC00ZmI0LWI1NDUtZDY2ZThjZTYxYmQ0IiwidCI6ImI3YWY4Y2FmLTgzZDgtNDY0NC04NWFlLTMxN2M1NDUyMjNjMSIsImMiOjR9">
+    <img src="https://img.shields.io/badge/Power_BI-Interactive_Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  </a>
+</div>
+
+### 🏓 [Statistical Analysis - Ping Pong Precision](https://sam-24-dev.github.io/Analisis-Ping-Pong/)
+**Scientific Research**
+* **Validation:** Validated a Negative Binomial model with **309 observations** (p-value = 0.660).
+* **Tech:** R, RMarkdown, Inferential Statistics.
+
+<div align="center">
+  <a href="https://github.com/Sam-24-dev/Analisis-Ping-Pong">
+    <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://sam-24-dev.github.io/Analisis-Ping-Pong/">
+    <img src="https://img.shields.io/badge/Report-Read_Analysis-0078D4?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 🛠️ Technical Stack
+
+### **Data Engineering & Analysis**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandera](https://img.shields.io/badge/Pandera-Validation-2B9348?style=flat)
+
+### **Visualization & BI**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+### **Web & Full Stack**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## ☁️ Cloud & Tools
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-![SQLite](https://img.shields.io/badge/Database-SQLite-blue)
-![Vercel](https://img.shields.io/badge/Hosting-Vercel-blue)
+---
 
-Existing content continues here...
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-24-dev&layout=donut&theme=tokyonight&hide_border=true&cache_seconds=86400&langs_count=6" />
+
+<img height="160em" src="https://streak-stats.demolab.com/?user=Sam-24-dev&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## ⏱️ Weekly Coding Activity
+
+<div align="center">
+
+> *Real-time stats powered by [WakaTime](https://wakatime.com) — tracking every line of code I write.*
+
+<table>
+  <tr>
+    <td>
+      <a href="https://wakatime.com/@Sam-24-dev">
+        <img src="https://img.shields.io/badge/⏱️_WakaTime-Tracking_Active-blueviolet?style=for-the-badge&logo=wakatime&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                131 commits         ███████░░░░░░░░░░░░░░░░░░   27.18 % 
+🌃 Evening                265 commits         ██████████████░░░░░░░░░░░   54.98 % 
+🌙 Night                  86 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
