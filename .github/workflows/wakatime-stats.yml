@@ -28,5 +28,6 @@ jobs:
           SHOW_SHORT_INFO: "False"  # ❌ Quita el bloque My GitHub Data
           SHOW_LOC_CHART: "False"
           SHOW_PROFILE_VIEWS: "False" # ❌ Quita el badge redundante
+          SHOW_TOTAL_CODE_TIME: "False" # ✅ Quita el badge azul del tiempo total
           LOCALE: "en"
           COMMIT_MESSAGE: "📊 Update WakaTime stats"
