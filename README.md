@@ -64,6 +64,20 @@ Unlike a traditional analyst, my technical background allows me to not only visu
 
 ---
 
+## 🏆 Certifications & Awards
+
+<div align="center">
+
+| 🎖️ Certification / Award | 🏢 Issuer | 📅 | 🔗 |
+|:---|:---|:---:|:---:|
+| 🌍 **Galactic Problem Solver** — Global Nominee | NASA Space Apps Challenge | Oct 2025 | [📄 Certificate](https://portafolio-samir-tau.vercel.app/certificates/nasa-space-apps-2025.pdf) |
+| 📊 **PL-300: Power BI Data Analyst** *(In Progress)* | Microsoft | 2026 | 🔄 |
+| 📗 **MO-210: Excel Associate** *(In Progress)* | Microsoft | 2026 | 🔄 |
+
+</div>
+
+---
+
 ##  Featured Project (New!)
 
 ###  [RideFare: ETL Pipeline & Predictive Price Modeling](https://github.com/Sam-24-dev/RideFare-ETL-Pipeline)
