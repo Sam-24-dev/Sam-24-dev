@@ -233,6 +233,41 @@ Unlike a traditional analyst, my technical background allows me to not only visu
   </tr>
 </table>
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                165 commits         ████████░░░░░░░░░░░░░░░░░   30.56 % 
+🌃 Evening                287 commits         █████████████░░░░░░░░░░░░   53.15 % 
+🌙 Night                  88 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+Tuesday                  46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Wednesday                96 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Thursday                 106 commits         █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+Friday                   24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Saturday                 141 commits         ███████░░░░░░░░░░░░░░░░░░   26.11 % 
+Sunday                   68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Dart                     14 mins             ███████████░░░░░░░░░░░░░░   43.95 % 
+Markdown                 14 mins             ███████████░░░░░░░░░░░░░░   43.00 % 
+Python                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+
+🐱‍💻 Projects: 
+Technology-trend-analysis32 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 28/02/2026 23:28:46 UTC
 <!--END_SECTION:waka-->
 </div>
 
