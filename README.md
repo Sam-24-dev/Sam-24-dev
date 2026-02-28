@@ -34,8 +34,8 @@ I am an engineer focused on the **complete data lifecycle**: from building robus
 
 Unlike a traditional analyst, my technical background allows me to not only visualize data but also **build and optimize the systems behind it**. My goal is to transform complex raw data into clear, actionable strategies that drive business growth.
 
-###  What I Bring to the Table:
-* **Data Engineering:** Automating ETL pipelines and optimizing database queries (40% perfomance boost).
+### 💼 What I Bring to the Table:
+* **Data Engineering:** Automating ETL pipelines and optimizing database queries (40% performance boost).
 * **Machine Learning:** Building predictive models for dynamic pricing and real-world scenarios.
 * **Business Intelligence:** Identifying financial gaps ($16k+) and visualizing KPIs for decision-making.
 
@@ -78,16 +78,16 @@ Unlike a traditional analyst, my technical background allows me to not only visu
 
 ---
 
-##  Featured Project (New!)
+## 🚀 Featured Project — Highlight
 
-###  [RideFare: ETL Pipeline & Predictive Price Modeling](https://github.com/Sam-24-dev/RideFare-ETL-Pipeline)
+### 🔷 [RideFare: ETL Pipeline & Predictive Price Modeling](https://github.com/Sam-24-dev/RideFare-ETL-Pipeline)
 **End-to-End Data Engineering & Machine Learning Project**
 
 > *Simulating price optimization for ride-hailing apps (Uber/Lyft) using a pipeline that processes 1.2 Million records.*
 
-* ** ETL Architecture:** Developed an automated Python pipeline to ingest, clean, and transform **1.2 Million raw records**.
-* ** SQL Migration:** Migrated flat file storage (CSV) to a relational database (SQLite), optimizing queries via complex JOINs.
-* ** Machine Learning:** Trained a **Random Forest Regressor** to predict dynamic pricing based on distance and surge multipliers.
+* **🔧 ETL Architecture:** Developed an automated Python pipeline to ingest, clean, and transform **1.2 Million raw records**.
+* **🗄️ SQL Migration:** Migrated flat file storage (CSV) to a relational database (SQLite), optimizing queries via complex JOINs.
+* **🤖 Machine Learning:** Trained a **Random Forest Regressor** to predict dynamic pricing based on distance and surge multipliers.
 * **Tech Stack:** Python, SQL, Pandas, Scikit-Learn, Matplotlib.
 
 <div align="center">
@@ -100,9 +100,9 @@ Unlike a traditional analyst, my technical background allows me to not only visu
 
 ---
 
-##  Other Key Projects
+## 📁 Other Key Projects
 
-###  [NASA Space Apps Challenge 2025 - "Weather for All"](https://github.com/JairPalaguachi/Probability)
+### 🛰️ [NASA Space Apps Challenge 2025 - "Weather for All"](https://github.com/JairPalaguachi/Probability)
 **Award: Galactic Problem Solver (Global Nominee)**
 * **Innovation:** Built a full-stack web app analyzing **10 years of NASA satellite data** to predict extreme weather probabilities globally.
 * **Impact:** Developed in a 48-hour hackathon. Features interactive maps and real-time API integration.
@@ -118,7 +118,7 @@ Unlike a traditional analyst, my technical background allows me to not only visu
   </a>
 </div>
 
-###  [Rice Crop Management System](https://sam-24-dev.github.io/Sistema-Cultivo-Arroz/)
+### 🌾 [Rice Crop Management System](https://sam-24-dev.github.io/Sistema-Cultivo-Arroz/)
 **Predictive Analytics for Agriculture**
 * **Result:** Projected an **ROI improvement from -5.58% to +15%** (+20.6 points) using historical data analysis.
 * **Tech:** MySQL, Python, Pandas, Bootstrap.
@@ -133,7 +133,7 @@ Unlike a traditional analyst, my technical background allows me to not only visu
   </a>
 </div>
 
-###  [eSports Analytics Dashboard](https://sam-24-dev.github.io/eSports-Analytics-Dashboard/)
+### 🎮 [eSports Analytics Dashboard](https://sam-24-dev.github.io/eSports-Analytics-Dashboard/)
 **Database Optimization & Visualization**
 * **Achievement:** Achieved **40% faster query execution** through strategic database indexing and normalization.
 * **Scope:** Analyzed performance of 15 teams across 8 LATAM countries.
@@ -160,7 +160,7 @@ Unlike a traditional analyst, my technical background allows me to not only visu
   </a>
 </div>
 
-###  [Statistical Analysis - Ping Pong Precision](https://sam-24-dev.github.io/Analisis-Ping-Pong/)
+### 🏓 [Statistical Analysis - Ping Pong Precision](https://sam-24-dev.github.io/Analisis-Ping-Pong/)
 **Scientific Research**
 * **Validation:** Validated a Negative Binomial model with **309 observations** (p-value = 0.660).
 * **Tech:** R, RMarkdown, Inferential Statistics.
@@ -177,7 +177,7 @@ Unlike a traditional analyst, my technical background allows me to not only visu
 
 ---
 
-##  Technical Stack
+## 🛠️ Technical Stack
 
 ### **Data Engineering & Analysis**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -229,43 +229,42 @@ Unlike a traditional analyst, my technical background allows me to not only visu
 </table>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                131 commits         ███████░░░░░░░░░░░░░░░░░░   27.12 % 
-🌃 Evening                266 commits         ██████████████░░░░░░░░░░░   55.07 % 
-🌙 Night                  86 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+🌆 Daytime                131 commits         ███████░░░░░░░░░░░░░░░░░░   27.18 % 
+🌃 Evening                265 commits         ██████████████░░░░░░░░░░░   54.98 % 
+🌙 Night                  86 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Tuesday                  46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Wednesday                81 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Thursday                 99 commits          █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-Friday                   21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Saturday                 116 commits         ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
-Sunday                   63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Monday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Tuesday                  46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Wednesday                81 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Thursday                 99 commits          █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+Friday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Saturday                 116 commits         ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
+Sunday                   63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
 ```
-
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Dart                     14 mins             ███████████░░░░░░░░░░░░░░   43.95 % 
-Markdown                 14 mins             ███████████░░░░░░░░░░░░░░   43.00 % 
-Python                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Dart                     14 mins             ███████████████████░░░░░░   76.70 % 
+Python                   4 mins              ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🐱‍💻 Projects: 
-Technology-trend-analysis32 mins             █████████████████████████   100.00 % 
-```
+Technology-trend-analysis18 mins             █████████████████████████   100.00 % 
+``` 
 
 
- Last Updated on 28/02/2026 00:56:12 UTC
+ Last Updated on 27/02/2026 01:05:26 UTC
 <!--END_SECTION:waka-->
 
 </div>
