@@ -216,6 +216,7 @@ Unlike a traditional analyst, my technical background allows me to not only visu
 </div>
 
 ---
+
 ## ⏱️ Weekly Coding Activity
 
 <div align="center">
@@ -233,6 +234,8 @@ Unlike a traditional analyst, my technical background allows me to not only visu
 </table>
 
 </div>
+
+<br>
 
 <div align="center">
 
