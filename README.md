@@ -216,7 +216,6 @@ Unlike a traditional analyst, my technical background allows me to not only visu
 </div>
 
 ---
-
 ## ⏱️ Weekly Coding Activity
 
 <div align="center">
@@ -233,13 +232,14 @@ Unlike a traditional analyst, my technical background allows me to not only visu
   </tr>
 </table>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20mins-blue?style=flat)
+</div>
 
-**I'm a Night 🦉** 
+<div align="center">
 
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                131 commits         ███████░░░░░░░░░░░░░░░░░░   27.18 % 
-🌃 Evening                265 commits         ██████████████░░░░░░░░░░░   54.98 % 
-🌙 Night                  86 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+### 🤝 Let's work together!
+
+I'm actively seeking **Junior Data Engineer** or **Data Analyst** roles.
+
+[![](https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samir-caizapasto/)
+
+</div>
