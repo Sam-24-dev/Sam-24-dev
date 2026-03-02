@@ -276,10 +276,20 @@ Technology-trend-analysis32 mins             ███████████�
 
 <div align="center">
 
-### 🤝 Let's work together!
+### 🤝 Open to Opportunities
 
-I'm actively seeking **Junior Data Engineer** or **Data Analyst** roles.
+I'm a **7th-semester Computer Engineering student at ESPOL** actively looking for **Junior Data Engineer** or **Data Analyst** roles where I can contribute from day one.
 
-[![](https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samir-caizapasto/)
+<div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
+  <a href="https://www.linkedin.com/in/samir-caizapasto/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portafolio-samir-tau.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Web-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:samir.leonardo.caizapasto04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 </div>
