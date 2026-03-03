@@ -35,7 +35,7 @@ I am an engineer focused on the **complete data lifecycle**: from building robus
 Unlike a traditional analyst, my technical background allows me to not only visualize data but also **build and optimize the systems behind it**. My goal is to transform complex raw data into clear, actionable strategies that drive business growth.
 
 ### 💼 What I Bring to the Table:
-* **Data Engineering:** Automating ETL pipelines and optimizing database queries (40% perfomance boost).
+* **Data Engineering:** Automating ETL pipelines and optimizing database queries (40% performance boost).
 * **Machine Learning:** Building predictive models for dynamic pricing and real-world scenarios.
 * **Business Intelligence:** Identifying financial gaps ($16k+) and visualizing KPIs for decision-making.
 
