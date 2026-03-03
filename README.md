@@ -10,13 +10,13 @@
 
   <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://portafolio-samir-tau.vercel.app/">
-      <img src="https://img.shields.io/badge/🌐_Mi_Portafolio-Ver_Web-success?style=for-the-badge&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-success?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/samir-caizapasto/">
-      <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:samir.leonardo.caizapasto04@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </div>
 
