@@ -197,11 +197,17 @@ Unlike a traditional analyst, my technical background allows me to not only visu
 ## 📊 GitHub Stats
 
 <div align="center">
-
   <img height="180em" src="https://my-github-stats-woad.vercel.app/api/top-langs/?username=Sam-24-dev&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" />
-
+  
   <img height="180em" src="https://streak-stats.demolab.com/?user=Sam-24-dev&theme=tokyonight&hide_border=true" />
+</div>
 
+---
+
+## 📈 Contribution Trend
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sam-24-dev&theme=tokyonight&hide_border=true&area=true&bg_color=1a1b27&color=70a5fd&line=38bdae&point=89ddff&title_color=c0caf5&axes_color=a9b1d6" width="100%" />
 </div>
 
 ---
