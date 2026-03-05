@@ -196,6 +196,15 @@ Unlike a traditional analyst, my technical background allows me to not only visu
 </div>
 
 ---
+</div>
+
+<br>
+
+### 🌎 Spoken Languages
+* 🇪🇸 **Spanish:** Native
+* 🇺🇸 **English:** Intermediate (B1) — *Actively studying towards C1 certification*
+
+---
 
 ## 📊 GitHub Stats
 
