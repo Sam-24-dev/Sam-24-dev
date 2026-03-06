@@ -3,8 +3,6 @@
   <a href="https://portafolio-samir-tau.vercel.app/">
     <img src="./banner.png" alt="Samir Caizapasto - Data Analysis Specialist" width="100%" />
   </a>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Sam-24-dev&color=blueviolet&style=flat-square&label=Profile+Views)
 
   <br>
 
@@ -306,7 +304,7 @@ Technology-trend-analysis1 hr 3 mins         ███████████�
 
 I'm a **7th-semester Computer Engineering student at ESPOL** actively looking for **Junior Data Engineer** or **Data Analyst** roles where I can contribute from day one.
 
-<div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
+<div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px; margin-bottom: 25px;">
    <a href="https://portafolio-samir-tau.vercel.app/">
       <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-success?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
@@ -318,6 +316,9 @@ I'm a **7th-semester Computer Engineering student at ESPOL** actively looking fo
     </a>
 </div>
 
-</div>
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sam-24-dev&label=Profile%20Views&color=A960FF&style=flat" alt="Profile Views" />
+</p>
 
 </div>
