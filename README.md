@@ -293,10 +293,16 @@ Technology-trend-analysis1 hr 3 mins         ███████████�
 </div>
 
 <br>
+<!-- Typing Animation Footer -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=Building+data+pipelines+%F0%9F%94%A7;Turning+raw+data+into+insights+%F0%9F%93%8A;Open+to+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
+<br>
 
 <div align="center">
 
-### 🤝 Open to Opportunities
+### 🤝 Let's Connect!
 
 I'm a **7th-semester Computer Engineering student at ESPOL** actively looking for **Junior Data Engineer** or **Data Analyst** roles where I can contribute from day one.
 
@@ -310,6 +316,8 @@ I'm a **7th-semester Computer Engineering student at ESPOL** actively looking fo
     <a href="mailto:samir.leonardo.caizapasto04@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
+</div>
+
 </div>
 
 </div>
