@@ -68,11 +68,12 @@ Unlike a traditional analyst, my technical background allows me to not only visu
 
 <div align="center">
 
-| 🎖️ Certification / Award | 🏢 Issuer | 📅 | 🔗 |
+| 🎖️ Certification / Award | 🏢 Issuer | 📅 Status / Date | 🔗 Link |
 |:---|:---|:---:|:---:|
-| 🌍 **Galactic Problem Solver** — Global Nominee | NASA Space Apps Challenge | Oct 2025 | [📄 Certificate](https://portafolio-samir-tau.vercel.app/certificates/nasa-space-apps-2025.pdf) |
-| 📊 **PL-300: Power BI Data Analyst** *(In Progress)* | Microsoft | 2026 | 🔄 |
-| 📗 **MO-210: Excel Associate** *(In Progress)* | Microsoft | 2026 | 🔄 |
+| 🌍 **Galactic Problem Solver** — Global Nominee | NASA Space Apps Challenge | Oct 2025 | [📄 View](https://portafolio-samir-tau.vercel.app/certificates/nasa-space-apps-2025.pdf) |
+| 📊 **Data-Driven Decision Specialist** *(Bootcamp)* | ESPOL & MINTEL | Completed (Graduation: Apr 2026) | [⭐ Top Project](https://sam-24-dev.github.io/eSports-Analytics-Dashboard/) |
+| 📈 **PL-300: Power BI Data Analyst** | Microsoft | Candidate: Mar 2026 | 🎯 Preparing |
+| 📗 **MO-210: Excel Associate** | Microsoft | Candidate: Mar 2026 | 🎯 Preparing |
 
 </div>
 
