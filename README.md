@@ -63,6 +63,18 @@ My approach combines **data engineering** (pipeline automation, query optimizati
 
 ---
 
+## 🌎 Spoken Languages
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Spanish-Native-EA4335?style=for-the-badge" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/English-B1_Intermediate-0A66C2?style=for-the-badge" />
+  <br>
+  <i>* Actively preparing for C1 certification *</i>
+</div>
+
+---
+
 ## 🏆 Certifications & Awards
 
 <div align="center">
@@ -194,15 +206,6 @@ My approach combines **data engineering** (pipeline automation, query optimizati
 | **📚 Learning** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white) |
 
 </div>
-
----
-</div>
-
-<br>
-
-### 🌎 Spoken Languages
-* 🇪🇸 **Spanish:** Native
-* 🇺🇸 **English:** Intermediate (B1) — *Actively studying towards C1 certification*
 
 ---
 
