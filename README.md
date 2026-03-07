@@ -26,16 +26,17 @@
 
 > *I don't just analyze data. I build the systems that make analysis possible.*
 
-**Junior Data Engineer & Analyst** | **7th Semester  ESPOL, Ecuador**
+**Junior Data Engineer & Analyst** | **7th Semester — Computer Engineering, ESPOL, Ecuador**
 
-I am an engineer focused on the **complete data lifecycle**: from building robust architectures (ETL/SQL) to analyzing trends and deploying Machine Learning models. 
+I am an engineer focused on the **complete data lifecycle**: from designing **ETL/ELT pipelines** and **data quality frameworks** to performing deep **exploratory data analysis (EDA)** and deploying **Machine Learning models** in **production-ready** environments.
 
-Unlike a traditional analyst, my technical background allows me to not only visualize data but also **build and optimize the systems behind it**. My goal is to transform complex raw data into clear, actionable strategies that drive business growth.
+My approach combines **data engineering** (pipeline automation, query optimization, CI/CD) with **business intelligence** (stakeholder reporting, KPI dashboards). This allows me to not only build robust data infrastructure but also extract actionable insights that drive **data-driven decisions**.
 
 ### 💼 What I Bring to the Table:
-* **Data Engineering:** Automating ETL pipelines and optimizing database queries (40% performance boost).
-* **Machine Learning:** Building predictive models for dynamic pricing and real-world scenarios.
-* **Business Intelligence:** Identifying financial gaps ($16k+) and visualizing KPIs for decision-making.
+* **Data Pipeline Automation:** End-to-end architectures with strict **data validation gates** (Pandera) and 133+ automated tests.
+* **Database Engineering:** Implementing **3NF design** and **query optimization**, achieving **40% performance boosts** via indexing strategies.
+* **Machine Learning:** Building predictive models for dynamic pricing on real-world datasets of **1.2M+ records**.
+* **Business Intelligence:** Uncovering **$16K+ financial gaps** and delivering clear, interactive reporting for stakeholders.
 
 ---
 
