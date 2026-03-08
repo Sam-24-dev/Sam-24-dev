@@ -6,7 +6,10 @@
 
   <br>
 
-  <div style="display: flex; justify-content: center; gap: 10px;">
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <a href="https://portafolio-samir-tau.vercel.app/cv/SamirCaizapastoCV.pdf">
+      <img src="https://img.shields.io/badge/📄_Resume-Download_CV-2b3137?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
+    </a>
     <a href="https://portafolio-samir-tau.vercel.app/">
       <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-success?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
