@@ -4,6 +4,9 @@
     <img src="./banner.png" alt="Samir Caizapasto - Data Analysis Specialist" width="100%" />
   </a>
 
+   <!-- Top Value Proposition Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=4000&color=A960FF&center=true&vCenter=true&width=850&height=60&lines=Turning+Data+into+Competitive+Advantage+%E2%9A%A1;ETL+Pipelines+%7C+Data+Engineering+%7C+Architecture+%F0%9F%9B%A0%EF%B8%8F;Business+Intelligence+%7C+Data+Analytics+%7C+Dashboarding+%F0%9F%93%8A" alt="Value Proposition" />
+  
   <br>
 
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
