@@ -225,12 +225,27 @@ My approach combines **data engineering** (pipeline automation, query optimizati
 
 ---
 
+## ⏱️ Weekly Coding Activity
+
+<div align="center">
+
+> *Real-time stats powered by [WakaTime](https://wakatime.com) — tracking every line of code I write.*
+
+<br>
+
+<a href="https://wakatime.com/@Sam24dev">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sam24dev&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
+</a>
+
+</div>
+
+---
+
 ## 📈 Contribution Trend
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sam-24-dev&theme=tokyonight&hide_border=true&area=true&bg_color=1a1b27&color=70a5fd&line=38bdae&point=89ddff&title_color=c0caf5&axes_color=a9b1d6" width="100%" />
 </div>
-
 ---
 
 ## 🐍 Contribution Snake
@@ -244,74 +259,6 @@ My approach combines **data engineering** (pipeline automation, query optimizati
 </div>
 
 ---
-
-
-## ⏱️ Weekly Coding Activity
-
-<div align="center">
-
-> *Real-time stats powered by [WakaTime](https://wakatime.com) — tracking every line of code I write.*
-
-<table>
-  <tr>
-    <td>
-      <a href="https://wakatime.com/@Sam-24-dev">
-        <img src="https://img.shields.io/badge/⏱️_WakaTime-Tracking_Active-blueviolet?style=for-the-badge&logo=wakatime&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                207 commits         ████████░░░░░░░░░░░░░░░░░   32.65 % 
-🌃 Evening                337 commits         █████████████░░░░░░░░░░░░   53.15 % 
-🌙 Night                  90 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-Tuesday                  73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Wednesday                107 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Thursday                 122 commits         █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-Friday                   32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-Saturday                 154 commits         ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
-Sunday                   81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Dart                     7 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   37.17 % 
-Markdown                 6 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   35.20 % 
-Python                   2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-TOML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-YAML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-
-🐱‍💻 Projects: 
-Technology-trend-analysis15 hrs 52 mins      █████████████████████░░░░   82.90 % 
-eSports-Analytics-Dashboa3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-```
-
-
- Last Updated on 11/03/2026 01:00:34 UTC
-<!--END_SECTION:waka-->
-</div>
-
-<br>
-<!-- Typing Animation Footer -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=Building+data+pipelines+%F0%9F%94%A7;Turning+raw+data+into+insights+%F0%9F%93%8A;Open+to+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
-
-<br>
-
-<div align="center">
 
 ### 🤝 Let's Connect!
 
