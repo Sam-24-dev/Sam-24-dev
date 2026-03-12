@@ -264,8 +264,11 @@ My approach combines **data engineering** (pipeline automation, query optimizati
 
 I'm a **7th-semester Computer Engineering student at ESPOL** actively looking for **Junior Data Engineer** or **Data Analyst** roles where I can contribute from day one.
 
-<div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px; margin-bottom: 25px;">
-   <a href="https://portafolio-samir-tau.vercel.app/">
+<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <a href="https://portafolio-samir-tau.vercel.app/cv/SamirCaizapastoCV.pdf">
+      <img src="https://img.shields.io/badge/📄_Resume-Download_CV-2b3137?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
+    </a>
+    <a href="https://portafolio-samir-tau.vercel.app/">
       <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-success?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/samir-caizapasto/">
@@ -274,7 +277,7 @@ I'm a **7th-semester Computer Engineering student at ESPOL** actively looking fo
     <a href="mailto:samir.leonardo.caizapasto04@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-</div>
+  </div>
 
 <!-- Profile Views Counter -->
 <p align="center">
