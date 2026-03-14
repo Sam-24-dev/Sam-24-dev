@@ -98,6 +98,39 @@ My approach combines **data engineering** (pipeline automation, query optimizati
 
 ## 🚀 Featured Project — Highlight
 
+### 🔷 [Technology Trend Analysis Platform](https://github.com/Sam-24-dev/Technology-trend-analysis-platform)
+**End-to-End Multi-Source Data Engineering Platform**
+
+> *Tracking real-time developer technology trends by orchestrating data from GitHub, StackOverflow, and Reddit into a unified analytics engine.*
+
+* **🌐 Multi-Source ETL:** Consolidates developer signals from **GitHub, StackOverflow, and Reddit** into a canonical pipeline.
+* **🛡️ Data Quality Gates:** Enforces schema and validation rules with **Pandera data contracts**.
+* **⚡ Modern Analytics Engine:** Uses **DuckDB** for trend computation, ranking, and lightweight analytical workloads.
+* **✅ Production Discipline:** **133+ passing tests** with automated **CI/CD** workflows and scheduled refreshes.
+* **📱 Delivery Layer:** Serves insights to a **Flutter Web dashboard** with stable bridge outputs for frontend consumption.
+
+<div align="center">
+  <a href="https://github.com/Sam-24-dev/Technology-trend-analysis-platform">
+    <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://sam-24-dev.github.io/Technology-trend-analysis-platform/">
+    <img src="https://img.shields.io/badge/Live_Demo-View_Dashboard-0078D4?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### 🏗️ Platform Architecture
+
+<div align="center">
+  <img src="./assets/tech-trends-architecture.png" alt="Data Pipeline Architecture - Technology Trend Analysis Platform" width="100%" />
+</div>
+
+---
+
+## 📁 Other Key Projects
+
 ### 🔷 [RideFare: ETL Pipeline & Predictive Price Modeling](https://github.com/Sam-24-dev/RideFare-ETL-Pipeline)
 **End-to-End Data Engineering & Machine Learning Project**
 
@@ -114,9 +147,6 @@ My approach combines **data engineering** (pipeline automation, query optimizati
   </a>
 </div>
 
----
-
-## 📁 Other Key Projects
 
 ### 🛰️ [NASA Space Apps Challenge 2025 - "Weather for All"](https://github.com/JairPalaguachi/Probability)
 **Award: Galactic Problem Solver (Global Nominee)**
