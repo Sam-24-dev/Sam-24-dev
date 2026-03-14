@@ -87,6 +87,7 @@ My approach combines **data engineering** (pipeline automation, query optimizati
 | 🎖️ Certification / Award | 🏢 Issuer | 📅 Status / Date | 🔗 Link |
 |:---|:---|:---:|:---:|
 | 🌍 **Galactic Problem Solver** — Global Nominee | NASA Space Apps Challenge | Oct 2025 | [📄 View](https://portafolio-samir-tau.vercel.app/certificates/nasa-space-apps-2025.pdf) |
+| 🤖 **Desarrollo con IA: de 0 a Producción** | BIG school | Issued: Mar 2026 | [📜 Credential](https://certificados.thebigschool.com/wp-content/uploads/certs/MDEV2/Certificado-Samir-Leonardo-Caizapasto-Hernandez-5gqmvau5.pdf) |
 | 📊 **Data-Driven Decision Specialist** *(Bootcamp)* | ESPOL & MINTEL | Completed (Graduation: Apr 2026) | [⭐ Top Project](https://sam-24-dev.github.io/eSports-Analytics-Dashboard/) |
 | 📗 **MO-210: Excel Associate** | Microsoft | Candidate: Mar 2026 | 🎯 Preparing |
 | 📈 **PL-300: Power BI Data Analyst** | Microsoft | Candidate: Apr 2026 | 🎯 Preparing |
