@@ -45,13 +45,12 @@ My approach combines **data engineering** (pipeline automation, query optimizati
 * **Business Intelligence:** Uncovering **$16K+ financial gaps** and delivering clear, interactive reporting for stakeholders.
 
 ---
-
 ## 🔭 Currently
 
 <table>
   <tr>
-    <td>🔨 <b>Building</b></td>
-    <td><a href="https://github.com/Sam-24-dev/Technology-trend-analysis-platform"><b>Technology Trend Analysis Platform</b></a> — End-to-end multi-source ETL pipeline tracking developer trends across <b>GitHub, StackOverflow, and Reddit</b>. Features <b>Pandera</b> quality gates, a <b>DuckDB</b> analytics engine, and fully automated CI/CD workflows (133 passing tests) powering a cross-platform Flutter dashboard.</td>
+    <td>🔨 <b>Refactoring</b></td>
+    <td><a href="https://github.com/Sam-24-dev/eSports-Analytics-Dashboard"><b>eSports Analytics Dashboard LATAM</b></a> — Refactoring an end-to-end ETL + ML pipeline (<b>MySQL → Python/Pandas → Scikit-Learn → JSON → Web Dashboard</b>) to improve modular architecture, data validation, testing reliability, and maintainability for production-style delivery. Includes KPI tracking for teams, players, and competitions, plus predictive modeling workflows.</td>
   </tr>
   <tr>
     <td>📚 <b>Learning</b></td>
@@ -89,8 +88,8 @@ My approach combines **data engineering** (pipeline automation, query optimizati
 |:---|:---|:---:|:---:|
 | 🌍 **Galactic Problem Solver** — Global Nominee | NASA Space Apps Challenge | Oct 2025 | [📄 View](https://portafolio-samir-tau.vercel.app/certificates/nasa-space-apps-2025.pdf) |
 | 📊 **Data-Driven Decision Specialist** *(Bootcamp)* | ESPOL & MINTEL | Completed (Graduation: Apr 2026) | [⭐ Top Project](https://sam-24-dev.github.io/eSports-Analytics-Dashboard/) |
-| 📈 **PL-300: Power BI Data Analyst** | Microsoft | Candidate: Mar 2026 | 🎯 Preparing |
 | 📗 **MO-210: Excel Associate** | Microsoft | Candidate: Mar 2026 | 🎯 Preparing |
+| 📈 **PL-300: Power BI Data Analyst** | Microsoft | Candidate: Apr 2026 | 🎯 Preparing |
 
 </div>
 
