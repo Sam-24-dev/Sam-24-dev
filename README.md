@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://portafolio-samir-tau.vercel.app/">
-    <img src="./banner.png" alt="Samir Caizapasto - Data Analysis Specialist" width="100%" />
+    <img src="./assets/banner.png" alt="Samir Caizapasto - Data Analysis Specialist" width="100%" />
   </a>
 
    <!-- Top Value Proposition Animation -->
