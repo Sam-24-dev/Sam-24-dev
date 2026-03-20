@@ -75,7 +75,7 @@ My approach combines **data engineering** (pipeline automation, query optimizati
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/English-B1_Intermediate-0A66C2?style=for-the-badge" />
   <br>
-  <i>* Actively preparing for C1 certification *</i>
+  <i>Actively preparing for C1 certification</i>
 </div>
 
 ---
