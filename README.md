@@ -79,21 +79,34 @@ My approach combines **data engineering** (pipeline automation, query optimizati
 </div>
 
 ---
-
 ## 🏆 Certifications & Awards
 
 <div align="center">
 
 | 🎖️ Certification / Award | 🏢 Issuer | 📅 Status / Date | 🔗 Link |
 |:---|:---|:---:|:---:|
+| 📗 **Microsoft Office Specialist: Excel Associate (Microsoft 365 Apps)** | Microsoft | Issued: Mar 2026 | [📄 Credential](https://www.credly.com/badges/7ba4ed36-3918-4cc3-9661-8fa869b022ed) |
+| 📊 **Data Analyst Associate** | DataCamp | Issued: Mar 2026 | [📄 Credential](https://www.datacamp.com/certificate/DAA0019896448643) |
+| 🛠️ **ETL y ELT en Python** | DataCamp | Issued: Mar 2026 | [📄 Credential](https://www.datacamp.com/statement-of-accomplishment/course/cf1b953a1835bd22e0acf97bf28d289ffc151ed2?raw=1) |
 | 🌍 **Galactic Problem Solver** — Global Nominee | NASA Space Apps Challenge | Oct 2025 | [📄 View](https://portafolio-samir-tau.vercel.app/certificates/nasa-space-apps-2025.pdf) |
 | 🤖 **Desarrollo con IA: de 0 a Producción** | BIG school | Issued: Mar 2026 | [📜 Credential](https://certificados.thebigschool.com/wp-content/uploads/certs/MDEV2/Certificado-Samir-Leonardo-Caizapasto-Hernandez-5gqmvau5.pdf) |
 | 📊 **Data-Driven Decision Specialist** *(Bootcamp)* | ESPOL & MINTEL | Completed (Graduation: Apr 2026) | [⭐ Top Project](https://sam-24-dev.github.io/eSports-Analytics-Dashboard/) |
-| 📗 **MO-210: Excel Associate** | Microsoft | Candidate: Mar 2026 | 🎯 Preparing |
-| 📈 **PL-300: Power BI Data Analyst** | Microsoft | Candidate: Apr 2026 | 🎯 Preparing |
 
 </div>
 
+---
+
+## 📚 Currently Preparing
+
+<div align="center">
+
+| 🎯 Certification | 🏢 Issuer | 📅 Target | 🔗 Status |
+|:---|:---|:---:|:---:|
+| 📈 **PL-300: Power BI Data Analyst** | Microsoft | Apr 2026 | In progress |
+| ☁️ **AWS Cloud Practitioner / Data-related path** | AWS | 2026 | In progress |
+| 🧱 **dbt Fundamentals / Analytics Engineering** | dbt Labs | 2026 | In progress |
+
+</div>
 ---
 
 ## 🚀 Featured Project — Highlight
