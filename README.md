@@ -205,22 +205,6 @@ My approach combines **data engineering** (pipeline automation, query optimizati
   </a>
 </div>
 
-### 🎮 [eSports Analytics Dashboard - LATAM](https://sam-24-dev.github.io/eSports-Analytics-Dashboard/)
-**SQL Database Design & Query Optimization**
-* **Achievement:** Optimized a 3NF MySQL database with composite indexes (`idx_competencias_tipo_compid`), reducing execution time by **40%** for complex multi-table queries.
-* **Scope:** Processed historical performance data for **15 teams across 8 LATAM countries** managing a **$325,000 total prize pool**.
-* **Tech:** MySQL 8.0, Advanced SQL (CTEs, Window Functions), Vanilla JS, Chart.js.
-
-<div align="center">
-  <a href="https://github.com/Sam-24-dev/eSports-Analytics-Dashboard">
-    <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://sam-24-dev.github.io/eSports-Analytics-Dashboard/">
-    <img src="https://img.shields.io/badge/Website-Live_Demo-2EA44F?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</div>
-
 ### 🛒 [Grocery Sales BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTk5YTE0MjItZTNiOC00ZmI0LWI1NDUtZDY2ZThjZTYxYmQ0IiwidCI6ImI3YWY4Y2FmLTgzZDgtNDY0NC04NWFlLTMxN2M1NDUyMjNjMSIsImMiOjR9)
 **Business Intelligence**
 * **Insight:** Analyzed sales distribution across **23 active sellers** ($28.4K avg), uncovering a critical **$16.66K performance gap** between top and bottom performers.
