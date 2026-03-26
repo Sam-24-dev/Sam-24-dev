@@ -45,24 +45,35 @@ My approach combines **data engineering** (pipeline automation, query optimizati
 * **Business Intelligence:** Uncovering **$16K+ financial gaps** and delivering clear, interactive reporting for stakeholders.
 
 ---
-## 🔭 Currently
+## 🔭 Current Focus
 
 <table>
   <tr>
-    <td>🔨 <b>Refactoring</b></td>
-    <td><a href="https://github.com/Sam-24-dev/eSports-Analytics-Dashboard"><b>eSports Analytics Dashboard LATAM</b></a> — Refactoring an end-to-end ETL + ML pipeline (<b>MySQL → Python/Pandas → Scikit-Learn → JSON → Web Dashboard</b>) to improve modular architecture, data validation, testing reliability, and maintainability for production-style delivery. Includes KPI tracking for teams, players, and competitions, plus predictive modeling workflows.</td>
+    <td>📘 <b>Certification Track</b></td>
+    <td><b>PL-300: Microsoft Power BI Data Analyst</b> — Strengthening advanced modeling, DAX, and business storytelling for decision-focused dashboards.</td>
   </tr>
   <tr>
-    <td>📚 <b>Learning</b></td>
-    <td><b>Cloud (AWS/GCP) & dbt</b></td>
+    <td>☁️ <b>Learning Path</b></td>
+    <td><b>Cloud + dbt</b> — Building stronger foundations in modern data stack practices, transformation workflows, and analytics engineering standards.</td>
   </tr>
   <tr>
-    <td>👀 <b>Open to</b></td>
-    <td><b>Junior Data Engineer / Data Analyst roles</b></td>
+    <td>🧩 <b>Career Optimization</b></td>
+    <td><b>Portfolio optimization for job applications</b> — refining project narratives, measurable impact, and recruiter-facing positioning for Junior Data Engineer / Data Analyst opportunities.</td>
+  </tr>
+</table>
+
+---
+
+## ✅ Recently Completed
+
+<table>
+  <tr>
+    <td>🎮 <b>eSports Analytics Dashboard LATAM</b></td>
+    <td>Completed end-to-end analytical product: <b>MySQL → Python ETL → validated JSON contracts → web dashboard</b>, including <b>ML player projections (2026)</b>, automated testing, and GitHub Pages deployment.</td>
   </tr>
   <tr>
-    <td>📍 <b>Based in</b></td>
-    <td><b>Guayaquil, Ecuador</b></td>
+    <td>📊 <b>Customer Profile Analytics (Power BI)</b></td>
+    <td>Delivered a reproducible analytics workflow: <b>raw marketing data → Python preprocessing notebook → validated clean CSV → executive Power BI dashboard</b> (desktop + mobile) with business-oriented storytelling.</td>
   </tr>
 </table>
 
