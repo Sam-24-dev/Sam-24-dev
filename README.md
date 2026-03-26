@@ -118,6 +118,7 @@ My approach combines **data engineering** (pipeline automation, query optimizati
 | 🧱 **dbt Fundamentals / Analytics Engineering** | dbt Labs | 2026 | In progress |
 
 </div>
+
 ---
 
 ## 🚀 Featured Project — Highlight
