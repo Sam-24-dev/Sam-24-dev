@@ -124,19 +124,6 @@ It combines:
 
 </div>
 
----
-
-## 📚 Currently Preparing
-
-<div align="center">
-
-| 🎯 Certification | 🏢 Issuer | 📅 Target | 🔗 Status |
-|:---|:---|:---:|:---:|
-| 📈 **PL-300: Power BI Data Analyst** | Microsoft | Apr 2026 | In progress |
-| ☁️ **AWS Cloud Practitioner / Data-related path** | AWS | 2026 | In progress |
-| 🧱 **dbt Fundamentals / Analytics Engineering** | dbt Labs | 2026 | In progress |
-
-</div>
 
 ---
 
