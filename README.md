@@ -64,6 +64,25 @@ My approach combines **data engineering** (pipeline automation, query optimizati
 
 ---
 
+## 🚧 Current Project
+ **RideFare -ETL-Pipeline** 
+**Project Status**
+
+**RideFare is currently in active development.**
+
+This project is being rebuilt from a notebook-centered ETL demo into a complete, production-style data product for portfolio use.
+
+It combines:
+
+- **Data Engineering**: reproducible ingestion, validation, transformation, and analytics modeling
+- **Machine Learning**: documented training, evaluation, explainability, and exportable artifacts
+- **Frontend Product**: a polished public web app in Spanish with typed data contracts
+- **Automation & Delivery**: CI workflows, data refresh pipelines, and deployment-ready structure
+- **Documentation Quality**: architecture docs, model documentation, ADRs, and runbooks
+
+---
+
+
 ## ✅ Recently Completed
 
 <table>
