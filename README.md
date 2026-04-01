@@ -279,7 +279,7 @@ It combines:
 <br>
 
 <a href="https://wakatime.com/@Sam24dev">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sam24dev&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
+  <img src="https://my-github-stats-woad.vercel.app/api/wakatime?username=Sam24dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&v=20260401-1" alt="WakaTime Stats" />
 </a>
 
 </div>
