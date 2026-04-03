@@ -162,23 +162,6 @@ It combines:
 
 ## 📁 Other Key Projects
 
-### 🔷 [RideFare: ETL Pipeline & Predictive Price Modeling](https://github.com/Sam-24-dev/RideFare-ETL-Pipeline)
-**End-to-End Data Engineering & Machine Learning Project**
-
-> *Simulating price optimization for ride-hailing apps using a data architecture with 1.2 Million records.*
-
-* **🔧 ETL Architecture:** Engineered an automated Python pipeline to ingest **1.2M+ raw records**, using complex SQL JOINs to clean and consolidate a final dataset of **~600k verified trips** in SQLite.
-* **🤖 Machine Learning:** Trained a **Random Forest Regressor** to predict dynamic pricing (Baseline RMSE: $9.00). 
-* **📊 Key Insight:** Feature importance analysis revealed `distance` (>0.6) and `surge_multiplier` as the absolute dominant factors, proving granular weather data added unnecessary noise.
-* **Tech Stack:** Python, SQL, Pandas, Scikit-Learn, Plotly.
-
-<div align="center">
-  <a href="https://github.com/Sam-24-dev/RideFare-ETL-Pipeline">
-    <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-
 ### 🛰️ [NASA Space Apps Challenge 2025 - "Weather for All"](https://github.com/JairPalaguachi/Probability)
 **Award: Galactic Problem Solver (Global Nominee)**
 * **Innovation:** Built a full-stack web app analyzing **10 years of NASA satellite data** across **195+ countries** with **<2s response time** on interactive maps.
