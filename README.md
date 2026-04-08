@@ -29,21 +29,22 @@
 ---
 
 ## 👋 About Me
-
 > *I don't just analyze data. I build the systems that make analysis possible.*
 
-**Junior Data Engineer & Analyst** | **7th Semester — Computer Engineering, ESPOL, Ecuador**
+**Junior Data Engineer & Analyst** | **Computer Engineering Student (7th Semester), ESPOL — Ecuador**
 
-I am an engineer focused on the **complete data lifecycle**: from designing **ETL/ELT pipelines** and **data quality frameworks** to performing deep **exploratory data analysis (EDA)** and deploying **Machine Learning models** in **production-ready** environments.
+I design and deliver **production-style data systems** that turn raw data into **decision-ready products**.  
+My focus is the full lifecycle: **ETL/ELT pipelines, data quality contracts, analytics modeling, and stakeholder-facing BI/ML outputs**.
 
-My approach combines **data engineering** (pipeline automation, query optimization, CI/CD) with **business intelligence** (stakeholder reporting, KPI dashboards). This allows me to not only build robust data infrastructure but also extract actionable insights that drive **data-driven decisions**.
+I combine **Data Engineering** (automation, testing, CI/CD, architecture) with **Data Analytics** (KPI storytelling, dashboarding, business impact analysis) to create solutions that are both technically robust and useful for decision-making.
 
-### 💼 What I Bring to the Table:
-* **Data Pipeline Automation:** End-to-end architectures with strict **data validation gates** (Pandera) and 133+ automated tests.
-* **Database Engineering:** Implementing **3NF design** and **query optimization**, achieving **40% performance boosts** via indexing strategies.
-* **Machine Learning:** Building predictive models for dynamic pricing on real-world datasets of **1.2M+ records**.
-* **Business Intelligence:** Uncovering **$16K+ financial gaps** and delivering clear, interactive reporting for stakeholders.
+---
 
+### 💼 Core Value I Bring
+- **Production Data Engineering:** I build reproducible ETL/ELT pipelines with **Pandera validation gates**, automated testing, and CI workflows (**133+ tests** in production-style projects).
+- **Database & Analytics Engineering:** I design reliable SQL transformation layers (3NF modeling, query tuning, indexing), achieving up to **40% performance improvements** in analytical workloads.
+- **Business Intelligence & Decision Support:** I create KPI-driven dashboards and executive-ready narratives, including identification of **$16K+ performance gaps** for action planning.
+- **Applied ML for Real Products:** I develop explainable predictive systems (e.g., dynamic pricing with **1.2M+ records**) and deliver artifacts ready for web/product integration.
 ---
 ## 🔭 Current Focus
 
@@ -126,8 +127,34 @@ It combines:
 
 
 ---
+## 🚀 Featured Projects
 
-## 🚀 Featured Project — Highlight
+### 🟫 [RideFare — Production Data & Pricing Intelligence Platform](https://github.com/Sam-24-dev/RideFare-ETL-Pipeline)
+**End-to-End Data Engineering + ML + Analytics Product**
+
+> *From notebook-based analysis to a reproducible, production-style data product with public delivery.*
+
+- **Pipeline Modernization:** Rebuilt legacy notebook flow into reproducible commands (`ridefare ingest`, `transform`, `train`, `export-web`) with clear operational interfaces.
+- **Data Quality by Design:** Implemented schema and validation controls with **Pandera**, stable transformations with **DuckDB + dbt**, and versioned public artifacts.
+- **Explainable ML Delivery:** Trained and exported **XGBoost + SHAP** artifacts for transparent model behavior and scenario exploration.
+- **Public Product Interface:** Delivered a Spanish-language **Next.js** web experience (`/dashboard`, `/como-funciona`, `/escenarios`) powered by deterministic exported JSON.
+- **Automation & Deployment:** Integrated CI validation, artifact refresh workflows, preview/prod deploy pipelines, and release automation.
+
+<div align="center">
+  <a href="https://github.com/Sam-24-dev/RideFare-ETL-Pipeline">
+    <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://ride-fare-etl-pipeline-web.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-Open_RideFare-8C582E?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Sam-24-dev/RideFare-ETL-Pipeline/blob/master/docs/arquitectura.png">
+    <img src="https://img.shields.io/badge/Docs-Architecture_&_Runbooks-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+</div>
+
+<br>
 
 ### 🔷 [Technology Trend Analysis Platform](https://github.com/Sam-24-dev/Technology-trend-analysis-platform)
 **End-to-End Multi-Source Data Engineering Platform**
@@ -148,14 +175,10 @@ It combines:
   <a href="https://sam-24-dev.github.io/Technology-trend-analysis-platform/">
     <img src="https://img.shields.io/badge/Live_Demo-View_Dashboard-0078D4?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
-
----
-
-### 🏗️ Platform Architecture
-
-<div align="center">
-  <img src="./assets/tech-trends-architecture.png" alt="Data Pipeline Architecture - Technology Trend Analysis Platform" width="100%" />
+  &nbsp;
+  <a href="https://github.com/Sam-24-dev/Technology-trend-analysis-platform/blob/main/docs/architecture/data-pipeline-architecture.png">
+    <img src="https://img.shields.io/badge/Docs-Architecture_&_Runbooks-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
 </div>
 
 ---
