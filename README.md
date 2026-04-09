@@ -46,6 +46,36 @@ I combine **Data Engineering** (automation, testing, CI/CD, architecture) with *
 - **Business Intelligence & Decision Support:** I create KPI-driven dashboards and executive-ready narratives, including identification of **$16K+ performance gaps** for action planning.
 - **Applied ML for Real Products:** I develop explainable predictive systems (e.g., dynamic pricing with **1.2M+ records**) and deliver artifacts ready for web/product integration.
 ---
+
+## 🎯 Target Roles
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🛠️ Data Engineer
+- ETL/ELT pipeline design and automation  
+- Data contracts and quality gates (Pandera)  
+- Analytics engineering with SQL, dbt, DuckDB  
+- Workflow reliability, testing, and CI/CD  
+- Reproducible data products from raw inputs to validated marts
+
+  </td>
+    <td width="50%" valign="top">
+
+### 📊 Data Analyst / BI Analyst
+- KPI modeling and business performance tracking  
+- Dashboard design for stakeholders and executive reporting  
+- Insight generation and decision-focused storytelling  
+- Exploratory data analysis (EDA) and trend interpretation  
+- Translating technical outputs into clear business actions
+
+  </td>
+  </tr>
+</table>
+
+---
+
 ## 🔭 Current Focus
 
 <table>
