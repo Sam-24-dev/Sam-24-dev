@@ -47,6 +47,12 @@ I combine **Data Engineering** (automation, testing, CI/CD, architecture) with *
 - **Applied ML for Real Products:** I develop explainable predictive systems (e.g., dynamic pricing with **1.2M+ records**) and deliver artifacts ready for web/product integration.
 ---
 
+### 📌 Business Impact Snapshot
+- Reduced analytical query runtime by up to **40%** through SQL optimization and indexing strategy.
+- Identified **$16K+** performance/revenue opportunity gaps through BI analysis and KPI storytelling.
+- Deployed **multiple reproducible data products** with **133+ automated tests** and CI-backed validation workflows.
+---
+
 ## 🎯 Target Roles
 
 <table>
@@ -110,22 +116,6 @@ It combines:
 - **Frontend Product**: a polished public web app in Spanish with typed data contracts
 - **Automation & Delivery**: CI workflows, data refresh pipelines, and deployment-ready structure
 - **Documentation Quality**: architecture docs, model documentation, ADRs, and runbooks
-
----
-
-
-## ✅ Recently Completed
-
-<table>
-  <tr>
-    <td>🎮 <b>eSports Analytics Dashboard LATAM</b></td>
-    <td>Completed end-to-end analytical product: <b>MySQL → Python ETL → validated JSON contracts → web dashboard</b>, including <b>ML player projections (2026)</b>, automated testing, and GitHub Pages deployment.</td>
-  </tr>
-  <tr>
-    <td>📊 <b>Customer Profile Analytics (Power BI)</b></td>
-    <td>Delivered a reproducible analytics workflow: <b>raw marketing data → Python preprocessing notebook → validated clean CSV → executive Power BI dashboard</b> (desktop + mobile) with business-oriented storytelling.</td>
-  </tr>
-</table>
 
 ---
 
@@ -340,25 +330,27 @@ It combines:
 </div>
 
 ---
+### 🤝 Let’s Connect
 
-### 🤝 Let's Connect!
+**Open to Junior Data Engineer / Data Analyst roles (remote/hybrid, LATAM/US).**
 
-I'm a **7th-semester Computer Engineering student at ESPOL** actively looking for **Junior Data Engineer** or **Data Analyst** roles where I can contribute from day one.
+I’m ready to contribute from day one in data pipeline automation, analytics engineering, and decision-focused BI.
 
 <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
     <a href="https://portafolio-samir-tau.vercel.app/cv/SamirCaizapastoCV.pdf">
       <img src="https://img.shields.io/badge/📄_Resume-Download_CV-2b3137?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
     </a>
-    <a href="https://portafolio-samir-tau.vercel.app/">
+  <a href="https://portafolio-samir-tau.vercel.app/">
       <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-success?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/samir-caizapasto/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:samir.leonardo.caizapasto04@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </div>
+  <a href="https://www.linkedin.com/in/samir-caizapasto/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:samir.leonardo.caizapasto04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
 
 <!-- Profile Views Counter -->
 <p align="center">
