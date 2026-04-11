@@ -100,22 +100,25 @@ I combine **Data Engineering** (automation, testing, CI/CD, architecture) with *
 </table>
 
 ---
+## 🚧 Current Focus Project
+### Portfolio Refactor — Dual Track Positioning (Data Engineer + Data Analyst)
 
-## 🚧 Current Project
- **RideFare -ETL-Pipeline** 
-**Project Status**
+**Status: In progress**
 
-**RideFare is currently in active development.**
+I am currently refactoring this portfolio repository to present my two professional tracks in a clearer and more strategic way:
 
-This project is being rebuilt from a notebook-centered ETL demo into a complete, production-style data product for portfolio use.
+- **Data Engineer Track:** featured projects focused on ETL/ELT, data quality, analytics engineering, reproducible pipelines, testing, and CI/CD.
+- **Data Analyst / BI Track:** featured projects focused on KPI modeling, dashboard storytelling, business insights, and executive reporting.
 
-It combines:
+### Current Workstreams
+- Restructuring project sections to make each role path explicit for recruiters and ATS.
+- Improving content hierarchy (impact first, stack second, implementation third).
+- Standardizing project maturity labels (**Production-ready / Active maintenance / Completed**).
+- Polishing responsive design for **mobile and desktop** readability.
+- Strengthening call-to-action messaging for Junior Data Engineer / Data Analyst opportunities.
 
-- **Data Engineering**: reproducible ingestion, validation, transformation, and analytics modeling
-- **Machine Learning**: documented training, evaluation, explainability, and exportable artifacts
-- **Frontend Product**: a polished public web app in Spanish with typed data contracts
-- **Automation & Delivery**: CI workflows, data refresh pipelines, and deployment-ready structure
-- **Documentation Quality**: architecture docs, model documentation, ADRs, and runbooks
+### Goal
+Deliver a recruiter-friendly profile that communicates both technical depth and business impact in under 60 seconds.
 
 ---
 
