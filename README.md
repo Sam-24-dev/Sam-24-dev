@@ -205,14 +205,121 @@ Deliver a recruiter-friendly profile that communicates both technical depth and 
 </div>
 
 ---
-
 ## 📁 Other Key Projects
 
-### 🛰️ [NASA Space Apps Challenge 2025 - "Weather for All"](https://github.com/JairPalaguachi/Probability)
-**Award: Galactic Problem Solver (Global Nominee)**
-* **Innovation:** Built a full-stack web app analyzing **10 years of NASA satellite data** across **195+ countries** with **<2s response time** on interactive maps.
-* **Impact:** Developed MVP in a **48-hour hackathon**, integrating real-time APIs to predict global extreme weather probabilities.
-* **Tech:** Python (Flask), React, TypeScript, Leaflet, Plotly.
+### 🎮 [eSports Analytics Dashboard LATAM](https://github.com/Sam-24-dev/eSports-Analytics-Dashboard)
+**Status: Completed** | **Track: Data Engineer + Data Analyst**
+
+**Why it stands out:** End-to-end analytical product integrating relational data, ETL quality controls, ML projections, and dashboard delivery.
+
+- Built a full pipeline: **MySQL → Python ETL → validated JSON contracts → web dashboard**.
+- Integrated **Random Forest projections (2026)** to combine descriptive and predictive analytics.
+- Delivered reliable outputs with **126 automated tests** and CI-driven deployment.
+- Consolidated ecosystem visibility across teams, players, competitions, and prize performance.
+
+<div align="center">
+  <a href="https://github.com/Sam-24-dev/eSports-Analytics-Dashboard">
+    <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://sam-24-dev.github.io/eSports-Analytics-Dashboard/">
+    <img src="https://img.shields.io/badge/Live_Demo-View_Dashboard-0078D4?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+### 📊 [Customer Profile Analytics Dashboard (Power BI)](https://github.com/Sam-24-dev/customer-profile-analytics-powerbi)
+**Status: Completed** | **Track: Data Analyst / BI Analyst**
+
+**Why it stands out:** Strong BI storytelling case from raw marketing records to executive-grade dashboarding.
+
+- Built a reproducible workflow: **raw dataset → Python preprocessing notebook → validated clean CSV → Power BI dashboard**.
+- Modeled customer behavior across demographics, household composition, tenure, and channels.
+- Delivered **desktop + mobile** report layouts for stakeholder-ready consumption.
+- Produced a clear commercial narrative around high-value segments and premium spend behavior.
+
+<div align="center">
+  <a href="https://github.com/Sam-24-dev/customer-profile-analytics-powerbi">
+    <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNzE3YmU3ZDktN2M3Yi00ODY5LTk2OTktOGI0NmE3YmU1ZDdiIiwidCI6ImI3YWY4Y2FmLTgzZDgtNDY0NC04NWFlLTMxN2M1NDUyMjNjMSIsImMiOjR9&pageName=b29252d974b9cb52bd7f">
+    <img src="https://img.shields.io/badge/Power_BI-Open_Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  </a>
+</div>
+
+<br>
+
+### 🛒 Grocery Sales BI Dashboard *(Analytical Case)*
+**Status: Completed** | **Track: Data Analyst / BI Analyst**
+
+**Why it stands out:** Executive BI case focused on performance gaps, top revenue drivers, and market concentration.
+
+- Identified a **$16.66K performance gap** across seller performance.
+- Surfaced top revenue category with **$80.05K** for commercial prioritization.
+- Analyzed **23 active sellers**, with **Tulsa** highlighted as the strongest market.
+- Built with **Power BI + DAX + Excel** to deliver a concise decision-making dashboard.
+
+<div align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiOTk5YTE0MjItZTNiOC00ZmI0LWI1NDUtZDY2ZThjZTYxYmQ0IiwidCI6ImI3YWY4Y2FmLTgzZDgtNDY0NC04NWFlLTMxN2M1NDUyMjNjMSIsImMiOjR9">
+    <img src="https://img.shields.io/badge/Power_BI-View_Case-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  </a>
+</div>
+
+<br>
+
+### 🌾 [Rice Crop Analytics Platform](https://github.com/Sam-24-dev/Analisis-Cultivo-Arroz)
+**Status: Completed** | **Track: Data Engineer + Data Analyst**
+
+**Why it stands out:** Agriculture-focused data product connecting ETL architecture with profitability and productivity strategy.
+
+- Engineered pipeline: **MySQL → Python ETL → JSON outputs → 5-view web dashboard**.
+- Modeled strategic recovery from **-5.58% ROI to +15% target** (**+20.6 pts**).
+- Projected **+75% productivity uplift** with KPI-driven operational analysis.
+- Delivered reproducible implementation backed by automated ETL tests.
+
+<div align="center">
+  <a href="https://github.com/Sam-24-dev/Analisis-Cultivo-Arroz">
+    <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://sam-24-dev.github.io/Analisis-Cultivo-Arroz/">
+    <img src="https://img.shields.io/badge/Live_Demo-View_Dashboard-2EA44F?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+### 🏓 [Statistical Analysis — Ping Pong Precision Model](https://github.com/Sam-24-dev/Analisis-Ping-Pong)
+**Status: Completed** | **Track: Data Analyst (Statistical Modeling)**
+
+**Why it stands out:** Reproducible statistical pipeline translating inferential analysis into web-delivered evidence.
+
+- Validated a **Negative Binomial model** with goodness-of-fit acceptance (**p = 0.6603**).
+- Processed **309 observations** and confirmed mean serve time under 2 seconds (**1.945s**).
+- Automated JSON/PNG exports from R pipeline for dashboard-ready delivery.
+- Improved interpretability by packaging statistical outputs into a lightweight web report.
+
+<div align="center">
+  <a href="https://github.com/Sam-24-dev/Analisis-Ping-Pong">
+    <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://sam-24-dev.github.io/Analisis-Ping-Pong/">
+    <img src="https://img.shields.io/badge/Live_Report-Open_Analysis-0078D4?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+### 🛰️ [NASA Space Apps Challenge 2025 — Weather for All](https://github.com/JairPalaguachi/Probability)
+**Status: Completed** | **Track: Full-Stack + Applied Analytics**
+
+- Built MVP in **48 hours** during NASA Space Apps Challenge.
+- Processed **10 years** of climate-related data for **195+ countries**.
+- Delivered interactive map workflows with **<2s response time** for user exploration.
+- Recognized as **Galactic Problem Solver (Global Nominee)**.
 
 <div align="center">
   <a href="https://github.com/JairPalaguachi/Probability">
@@ -221,50 +328,6 @@ Deliver a recruiter-friendly profile that communicates both technical depth and 
   &nbsp;
   <a href="https://www.youtube.com/watch?v=519T9N7JkZU">
     <img src="https://img.shields.io/badge/YouTube-Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</div>
-
-### 🌾 [Rice Crop Analytics Platform](https://sam-24-dev.github.io/Analisis-Cultivo-Arroz/)
-**End-to-end Data Engineering for Agriculture**
-* **Result:** Engineered a Python ETL pipeline (covered by 14 unit tests) that modeled a strategic turnaround, projecting an **ROI improvement from -5.58% to +15%** (+20.6 pts) and a **+75% boost in productivity**.
-* **Architecture:** Built a robust MySQL -> Python -> JSON pipeline feeding a 5-page interactive dashboard for operational tracking.
-* **Tech:** MySQL, Python, Pandas, Pytest, JS/Bootstrap.
-
-<div align="center">
-  <a href="https://github.com/Sam-24-dev/Analisis-Cultivo-Arroz">
-    <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://sam-24-dev.github.io/Analisis-Cultivo-Arroz/">
-    <img src="https://img.shields.io/badge/Website-Live_Dashboard-2EA44F?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</div>
-
-### 🛒 [Grocery Sales BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTk5YTE0MjItZTNiOC00ZmI0LWI1NDUtZDY2ZThjZTYxYmQ0IiwidCI6ImI3YWY4Y2FmLTgzZDgtNDY0NC04NWFlLTMxN2M1NDUyMjNjMSIsImMiOjR9)
-**Business Intelligence**
-* **Insight:** Analyzed sales distribution across **23 active sellers** ($28.4K avg), uncovering a critical **$16.66K performance gap** between top and bottom performers.
-* **Impact:** Identified "Meat" as the top revenue driver (**$80.05K**) and Tulsa as the premier market (**20 top clients**), delivering actionable KPIs for data-driven decisions.
-* **Tech:** Power BI, DAX, Excel.
-
-<div align="center">
-  <a href="https://app.powerbi.com/view?r=eyJrIjoiOTk5YTE0MjItZTNiOC00ZmI0LWI1NDUtZDY2ZThjZTYxYmQ0IiwidCI6ImI3YWY4Y2FmLTgzZDgtNDY0NC04NWFlLTMxN2M1NDUyMjNjMSIsImMiOjR9">
-    <img src="https://img.shields.io/badge/Power_BI-Interactive_Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  </a>
-</div>
-
-### 🏓 [Statistical Analysis - Ping Pong Precision Model](https://sam-24-dev.github.io/Analisis-Ping-Pong/)
-**Scientific Research & Data Modeling**
-* **Validation:** Built an automated R pipeline to validate a Negative Binomial Distribution model (k=3, p=0.3) on **309 observations**, achieving a statistically significant **p-value of 0.660**.
-* **Impact:** Tracked a mean serve time of **1.945s** (<2s threshold) and exported JSON/PNG assets into a dynamic JS web dashboard.
-* **Tech:** R (Tidyverse, ggplot2), HTML/CSS/JS.
-
-<div align="center">
-  <a href="https://github.com/Sam-24-dev/Analisis-Ping-Pong">
-    <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://sam-24-dev.github.io/Analisis-Ping-Pong/">
-    <img src="https://img.shields.io/badge/Report-Read_Analysis-0078D4?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </div>
 
