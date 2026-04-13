@@ -7,14 +7,11 @@
    <!-- Top Value Proposition Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=4000&color=A960FF&center=true&vCenter=true&width=850&height=60&lines=Turning+Data+into+Competitive+Advantage+%E2%9A%A1;ETL+Pipelines+%7C+Data+Engineering+%7C+Architecture+%F0%9F%9B%A0%EF%B8%8F;Business+Intelligence+%7C+Data+Analytics+%7C+Dashboarding+%F0%9F%93%8A" alt="Value Proposition" />
   
-  <br>
-
-##  Junior Data Engineer & Data Analyst | Open to Remote/Hybrid (LATAM/US)
-
-I build **production-style data systems** and **decision-focused BI products**.  
-**Impact highlights:** **133+ tests in CI**, **up to 40% faster SQL workloads**, **$16K+ performance gaps identified**, **1.2M+ records in ML pricing pipelines**.
-
-📍 Guayaquil, Ecuador · 🌎 Open to **Remote / Hybrid** opportunities  
+  <br />
+  <h2>Junior Data Engineer &amp; Data Analyst | Open to Remote/Hybrid (LATAM/US)</h2>
+  <p>I build <strong>production-style data systems</strong> and <strong>decision-focused BI products</strong>.</p>
+  <p><strong>Impact highlights:</strong> <strong>133+ tests in CI</strong>, <strong>up to 40% faster SQL workloads</strong>, <strong>$16K+ performance gaps identified</strong>, <strong>1.2M+ records in ML pricing pipelines</strong>.</p>
+  <p>📍 Guayaquil, Ecuador · 🌎 Open to <strong>Remote / Hybrid</strong> opportunities</p> 
 
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
     <a href="https://portafolio-samir-tau.vercel.app/cv/SamirCaizapastoCV.pdf">
@@ -41,28 +38,31 @@ I build **production-style data systems** and **decision-focused BI products**.
   <tr>
     <td width="50%" valign="top">
 
-### 🛠️ Hire me as a Data Engineer
-- ETL/ELT pipelines, data contracts, CI/CD
-- Pandera, DuckDB, dbt, SQL optimization
-- Reproducible CLI workflows and tested delivery
-
-🔗 **Best-fit projects:**  
-- [RideFare — Production Data & Pricing Intelligence](https://ride-fare-etl-pipeline-web.vercel.app/)  
-- [Technology Trend Analysis Platform](https://sam-24-dev.github.io/Technology-trend-analysis-platform/)
-
-  </td>
+<h3>🛠️ Hire me as a Data Engineer</h3>
+      <ul>
+        <li>ETL/ELT pipelines, data contracts, CI/CD</li>
+        <li>Pandera, DuckDB, dbt, SQL optimization</li>
+        <li>Reproducible CLI workflows and tested delivery</li>
+      </ul>
+      <p>🔗 <strong>Best-fit projects:</strong></p>
+      <ul>
+        <li><a href="https://ride-fare-etl-pipeline-web.vercel.app/">RideFare — Production Data &amp; Pricing Intelligence</a></li>
+        <li><a href="https://sam-24-dev.github.io/Technology-trend-analysis-platform/">Technology Trend Analysis Platform</a></li>
+      </ul>
+    </td>
     <td width="50%" valign="top">
-
-### 📊 Hire me as a Data Analyst / BI Analyst
-- KPI modeling, dashboard storytelling, executive reporting
-- Power BI, SQL, Python preprocessing
-- Business insights translated into action plans
-
-🔗 **Best-fit projects:**  
-- [Customer Profile Analytics Dashboard (Power BI)](https://app.powerbi.com/view?r=eyJrIjoiNzE3YmU3ZDktN2M3Yi00ODY5LTk2OTktOGI0NmE3YmU1ZDdiIiwidCI6ImI3YWY4Y2FmLTgzZDgtNDY0NC04NWFlLTMxN2M1NDUyMjNjMSIsImMiOjR9&pageName=b29252d974b9cb52bd7f)  
-- [eSports Analytics Dashboard LATAM](https://sam-24-dev.github.io/eSports-Analytics-Dashboard/)
-
-  </td>
+      <h3>📊 Hire me as a Data Analyst / BI Analyst</h3>
+      <ul>
+        <li>KPI modeling, dashboard storytelling, executive reporting</li>
+        <li>Power BI, SQL, Python preprocessing</li>
+        <li>Business insights translated into action plans</li>
+      </ul>
+      <p>🔗 <strong>Best-fit projects:</strong></p>
+      <ul>
+        <li><a href="https://app.powerbi.com/view?r=eyJrIjoiNzE3YmU3ZDktN2M3Yi00ODY5LTk2OTktOGI0NmE3YmU1ZDdiIiwidCI6ImI3YWY4Y2FmLTgzZDgtNDY0NC04NWFlLTMxN2M1NDUyMjNjMSIsImMiOjR9&pageName=b29252d974b9cb52bd7f">Customer Profile Analytics Dashboard (Power BI)</a></li>
+        <li><a href="https://sam-24-dev.github.io/eSports-Analytics-Dashboard/">eSports Analytics Dashboard LATAM</a></li>
+      </ul>
+    </td>
   </tr>
 </table>
 
