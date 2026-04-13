@@ -9,6 +9,13 @@
   
   <br>
 
+##  Junior Data Engineer & Data Analyst | Open to Remote/Hybrid (LATAM/US)
+
+I build **production-style data systems** and **decision-focused BI products**.  
+**Impact highlights:** **133+ tests in CI**, **up to 40% faster SQL workloads**, **$16K+ performance gaps identified**, **1.2M+ records in ML pricing pipelines**.
+
+📍 Guayaquil, Ecuador · 🌎 Open to **Remote / Hybrid** opportunities  
+
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
     <a href="https://portafolio-samir-tau.vercel.app/cv/SamirCaizapastoCV.pdf">
       <img src="https://img.shields.io/badge/📄_Resume-Download_CV-2b3137?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
@@ -27,6 +34,57 @@
 </div>
 
 ---
+
+## 🧭 Choose Your Track
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🛠️ Hire me as a Data Engineer
+- ETL/ELT pipelines, data contracts, CI/CD
+- Pandera, DuckDB, dbt, SQL optimization
+- Reproducible CLI workflows and tested delivery
+
+🔗 **Best-fit projects:**  
+- [RideFare — Production Data & Pricing Intelligence](https://ride-fare-etl-pipeline-web.vercel.app/)  
+- [Technology Trend Analysis Platform](https://sam-24-dev.github.io/Technology-trend-analysis-platform/)
+
+  </td>
+    <td width="50%" valign="top">
+
+### 📊 Hire me as a Data Analyst / BI Analyst
+- KPI modeling, dashboard storytelling, executive reporting
+- Power BI, SQL, Python preprocessing
+- Business insights translated into action plans
+
+🔗 **Best-fit projects:**  
+- [Customer Profile Analytics Dashboard (Power BI)](https://app.powerbi.com/view?r=eyJrIjoiNzE3YmU3ZDktN2M3Yi00ODY5LTk2OTktOGI0NmE3YmU1ZDdiIiwidCI6ImI3YWY4Y2FmLTgzZDgtNDY0NC04NWFlLTMxN2M1NDUyMjNjMSIsImMiOjR9&pageName=b29252d974b9cb52bd7f)  
+- [eSports Analytics Dashboard LATAM](https://sam-24-dev.github.io/eSports-Analytics-Dashboard/)
+
+  </td>
+  </tr>
+</table>
+
+
+---
+
+## 📌 Impact Metrics
+
+<div align="center">
+
+| Metric | Proof of Impact |
+|:--|:--|
+| ✅ **133+ automated tests** | Production-style data platforms with CI quality gates |
+| ⚡ **Up to 40% faster queries** | SQL tuning and indexing for analytical workloads |
+| 💰 **$16.66K performance gap identified** | BI analysis for business decision prioritization |
+| 📦 **1.2M+ records processed** | Dynamic pricing pipeline with explainable ML artifacts |
+| 🧪 **126 tests in eSports project** | Reliable ETL + analytics delivery workflow |
+
+</div>
+
+---
+
 
 ## 👋 About Me
 > *I don't just analyze data. I build the systems that make analysis possible.*
