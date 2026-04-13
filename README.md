@@ -7,7 +7,11 @@
    <!-- Top Value Proposition Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=4000&color=A960FF&center=true&vCenter=true&width=850&height=60&lines=Turning+Data+into+Competitive+Advantage+%E2%9A%A1;ETL+Pipelines+%7C+Data+Engineering+%7C+Architecture+%F0%9F%9B%A0%EF%B8%8F;Business+Intelligence+%7C+Data+Analytics+%7C+Dashboarding+%F0%9F%93%8A" alt="Value Proposition" />
   
-  <br>
+  <br />
+  <h2>Junior Data Engineer &amp; Data Analyst | Open to Remote/Hybrid (LATAM/US)</h2>
+  <p>I build <strong>production-style data systems</strong> and <strong>decision-focused BI products</strong>.</p>
+  <p><strong>Impact highlights:</strong> <strong>133+ tests in CI</strong>, <strong>up to 40% faster SQL workloads</strong>, <strong>$16K+ performance gaps identified</strong>, <strong>1.2M+ records in ML pricing pipelines</strong>.</p>
+  <p>📍 Guayaquil, Ecuador · 🌎 Open to <strong>Remote / Hybrid</strong> opportunities</p> 
 
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
     <a href="https://portafolio-samir-tau.vercel.app/cv/SamirCaizapastoCV.pdf">
@@ -27,6 +31,60 @@
 </div>
 
 ---
+
+## 🧭 Choose Your Track
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+<h3>🛠️ Hire me as a Data Engineer</h3>
+      <ul>
+        <li>ETL/ELT pipelines, data contracts, CI/CD</li>
+        <li>Pandera, DuckDB, dbt, SQL optimization</li>
+        <li>Reproducible CLI workflows and tested delivery</li>
+      </ul>
+      <p>🔗 <strong>Best-fit projects:</strong></p>
+      <ul>
+        <li><a href="https://ride-fare-etl-pipeline-web.vercel.app/">RideFare — Production Data &amp; Pricing Intelligence</a></li>
+        <li><a href="https://sam-24-dev.github.io/Technology-trend-analysis-platform/">Technology Trend Analysis Platform</a></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Hire me as a Data Analyst / BI Analyst</h3>
+      <ul>
+        <li>KPI modeling, dashboard storytelling, executive reporting</li>
+        <li>Power BI, SQL, Python preprocessing</li>
+        <li>Business insights translated into action plans</li>
+      </ul>
+      <p>🔗 <strong>Best-fit projects:</strong></p>
+      <ul>
+        <li><a href="https://app.powerbi.com/view?r=eyJrIjoiNzE3YmU3ZDktN2M3Yi00ODY5LTk2OTktOGI0NmE3YmU1ZDdiIiwidCI6ImI3YWY4Y2FmLTgzZDgtNDY0NC04NWFlLTMxN2M1NDUyMjNjMSIsImMiOjR9&pageName=b29252d974b9cb52bd7f">Customer Profile Analytics Dashboard (Power BI)</a></li>
+        <li><a href="https://sam-24-dev.github.io/eSports-Analytics-Dashboard/">eSports Analytics Dashboard LATAM</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
+---
+
+## 📌 Impact Metrics
+
+<div align="center">
+
+| Metric | Proof of Impact |
+|:--|:--|
+| ✅ **133+ automated tests** | Production-style data platforms with CI quality gates |
+| ⚡ **Up to 40% faster queries** | SQL tuning and indexing for analytical workloads |
+| 💰 **$16.66K performance gap identified** | BI analysis for business decision prioritization |
+| 📦 **1.2M+ records processed** | Dynamic pricing pipeline with explainable ML artifacts |
+| 🧪 **126 tests in eSports project** | Reliable ETL + analytics delivery workflow |
+
+</div>
+
+---
+
 
 ## 👋 About Me
 > *I don't just analyze data. I build the systems that make analysis possible.*
