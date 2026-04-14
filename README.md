@@ -85,6 +85,24 @@
 
 ---
 
+## 📌 BI / Analytics Business Cases
+
+### Case 1 — Seller Performance Gap (Revenue Uplift)
+**Business problem:** Uneven seller performance was reducing total revenue potential.  
+**Analysis performed:** Segmentation by seller contribution, variance analysis, and gap quantification using Power BI + DAX.  
+**Impact:** Identified a **$16.66K** performance opportunity and prioritized intervention areas.
+
+### Case 2 — Customer Value & Premium Spend Behavior
+**Business problem:** Marketing needed clearer targeting of high-value customer segments.  
+**Analysis performed:** Behavioral profiling by demographics, household structure, tenure, and channel mix.  
+**Impact:** Highlighted premium-spend segments and enabled more focused campaign planning.
+
+### Case 3 — Executive Dashboard Decision Layer
+**Business problem:** Stakeholders lacked a concise decision view across KPIs.  
+**Analysis performed:** Built desktop/mobile KPI dashboards with narrative flow (context → insight → action).  
+**Impact:** Reduced reporting friction and improved decision speed for non-technical audiences.
+
+---
 
 ## 👋 About Me
 > *I don't just analyze data. I build the systems that make analysis possible.*
@@ -109,6 +127,16 @@ I combine **Data Engineering** (automation, testing, CI/CD, architecture) with *
 - Reduced analytical query runtime by up to **40%** through SQL optimization and indexing strategy.
 - Identified **$16K+** performance/revenue opportunity gaps through BI analysis and KPI storytelling.
 - Deployed **multiple reproducible data products** with **133+ automated tests** and CI-backed validation workflows.
+---
+
+## ⚙️ Engineering Standards I Use
+
+- **Data contracts & schema validation:** Pandera-based checks to catch quality issues before downstream analytics.
+- **Test pyramid mindset:** Unit + integration + data validation tests to protect transformation logic and pipeline stability.
+- **CI quality gates:** Automated checks for schema, tests, and build validity before release.
+- **Reproducible workflows:** CLI-oriented execution and deterministic outputs for reliable reruns.
+- **Versioned delivery artifacts:** Structured JSON/data outputs with documentation and runbooks for maintainability.
+
 ---
 
 ## 🎯 Target Roles
@@ -208,7 +236,11 @@ Deliver a recruiter-friendly profile that communicates both technical depth and 
 
 
 ---
-## 🚀 Featured Projects
+## 🚀 Featured Projects (Priority Order)
+
+
+### 🛠️ Data Engineer Track — Top Matches
+
 
 ### 🟫 [RideFare — Production Data & Pricing Intelligence Platform](https://github.com/Sam-24-dev/RideFare-ETL-Pipeline)
 **End-to-End Data Engineering + ML + Analytics Product**
@@ -263,29 +295,8 @@ Deliver a recruiter-friendly profile that communicates both technical depth and 
 </div>
 
 ---
-## 📁 Other Key Projects
 
-### 🎮 [eSports Analytics Dashboard LATAM](https://github.com/Sam-24-dev/eSports-Analytics-Dashboard)
-**Status: Completed** | **Track: Data Engineer + Data Analyst**
-
-**Why it stands out:** End-to-end analytical product integrating relational data, ETL quality controls, ML projections, and dashboard delivery.
-
-- Built a full pipeline: **MySQL → Python ETL → validated JSON contracts → web dashboard**.
-- Integrated **Random Forest projections (2026)** to combine descriptive and predictive analytics.
-- Delivered reliable outputs with **126 automated tests** and CI-driven deployment.
-- Consolidated ecosystem visibility across teams, players, competitions, and prize performance.
-
-<div align="center">
-  <a href="https://github.com/Sam-24-dev/eSports-Analytics-Dashboard">
-    <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://sam-24-dev.github.io/eSports-Analytics-Dashboard/">
-    <img src="https://img.shields.io/badge/Live_Demo-View_Dashboard-0078D4?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<br>
+### 📊 Data Analyst / BI Track — Top Matches
 
 ### 📊 [Customer Profile Analytics Dashboard (Power BI)](https://github.com/Sam-24-dev/customer-profile-analytics-powerbi)
 **Status: Completed** | **Track: Data Analyst / BI Analyst**
@@ -322,6 +333,33 @@ Deliver a recruiter-friendly profile that communicates both technical depth and 
 <div align="center">
   <a href="https://app.powerbi.com/view?r=eyJrIjoiOTk5YTE0MjItZTNiOC00ZmI0LWI1NDUtZDY2ZThjZTYxYmQ0IiwidCI6ImI3YWY4Y2FmLTgzZDgtNDY0NC04NWFlLTMxN2M1NDUyMjNjMSIsImMiOjR9">
     <img src="https://img.shields.io/badge/Power_BI-View_Case-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  </a>
+</div>
+
+<br>
+
+---
+
+## 📁 Additional Projects
+
+
+### 🎮 [eSports Analytics Dashboard LATAM](https://github.com/Sam-24-dev/eSports-Analytics-Dashboard)
+**Status: Completed** | **Track: Data Engineer + Data Analyst**
+
+**Why it stands out:** End-to-end analytical product integrating relational data, ETL quality controls, ML projections, and dashboard delivery.
+
+- Built a full pipeline: **MySQL → Python ETL → validated JSON contracts → web dashboard**.
+- Integrated **Random Forest projections (2026)** to combine descriptive and predictive analytics.
+- Delivered reliable outputs with **126 automated tests** and CI-driven deployment.
+- Consolidated ecosystem visibility across teams, players, competitions, and prize performance.
+
+<div align="center">
+  <a href="https://github.com/Sam-24-dev/eSports-Analytics-Dashboard">
+    <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://sam-24-dev.github.io/eSports-Analytics-Dashboard/">
+    <img src="https://img.shields.io/badge/Live_Demo-View_Dashboard-0078D4?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
