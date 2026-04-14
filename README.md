@@ -85,54 +85,63 @@
 
 ---
 
+## 📌 BI / Analytics Business Cases
+
+### Case 1 — Seller Performance Gap (Revenue Uplift)
+**Business problem:** Uneven seller performance was reducing total revenue potential.  
+**Analysis performed:** Segmentation by seller contribution, variance analysis, and gap quantification using Power BI + DAX.  
+**Impact:** Identified a **$16.66K** performance opportunity and prioritized intervention areas.
+
+### Case 2 — Customer Value & Premium Spend Behavior
+**Business problem:** Marketing needed clearer targeting of high-value customer segments.  
+**Analysis performed:** Behavioral profiling by demographics, household structure, tenure, and channel mix.  
+**Impact:** Highlighted premium-spend segments and enabled more focused campaign planning.
+
+### Case 3 — Executive Dashboard Decision Layer
+**Business problem:** Stakeholders lacked a concise decision view across KPIs.  
+**Analysis performed:** Built desktop/mobile KPI dashboards with narrative flow (context → insight → action).  
+**Impact:** Reduced reporting friction and improved decision speed for non-technical audiences.
+
+---
 
 ## 👋 About Me
-> *I don't just analyze data. I build the systems that make analysis possible.*
 
-**Junior Data Engineer & Analyst** | **Computer Engineering Student (7th Semester), ESPOL — Ecuador**
+**Junior Data Engineer & Data Analyst** | **Computer Engineering Student (ESPOL, 7th semester)**
 
-I design and deliver **production-style data systems** that turn raw data into **decision-ready products**.  
-My focus is the full lifecycle: **ETL/ELT pipelines, data quality contracts, analytics modeling, and stakeholder-facing BI/ML outputs**.
+I build **production-style, reproducible data products** that combine engineering reliability with business decision impact.  
+I work across the full cycle: ingestion, transformation, validation, analytics modeling, and stakeholder-facing BI delivery.
 
-I combine **Data Engineering** (automation, testing, CI/CD, architecture) with **Data Analytics** (KPI storytelling, dashboarding, business impact analysis) to create solutions that are both technically robust and useful for decision-making.
+### What I bring
+- **Built** ETL/ELT workflows with **Pandera validation**, automated testing, and CI/CD quality gates.
+- **Implemented** SQL transformation layers and indexing strategies, improving analytical query performance by up to **40%**.
+- **Delivered** KPI-driven BI outputs that identified **$16.66K** performance opportunities for business action.
+- **Modeled** applied ML pipelines (e.g., pricing) over **1.2M+ records** with explainability artifacts for transparent decisions.
+- **Automated** reproducible delivery flows from raw data to dashboard/web-ready outputs.
 
 ---
 
-### 💼 Core Value I Bring
-- **Production Data Engineering:** I build reproducible ETL/ELT pipelines with **Pandera validation gates**, automated testing, and CI workflows (**133+ tests** in production-style projects).
-- **Database & Analytics Engineering:** I design reliable SQL transformation layers (3NF modeling, query tuning, indexing), achieving up to **40% performance improvements** in analytical workloads.
-- **Business Intelligence & Decision Support:** I create KPI-driven dashboards and executive-ready narratives, including identification of **$16K+ performance gaps** for action planning.
-- **Applied ML for Real Products:** I develop explainable predictive systems (e.g., dynamic pricing with **1.2M+ records**) and deliver artifacts ready for web/product integration.
----
-
-### 📌 Business Impact Snapshot
-- Reduced analytical query runtime by up to **40%** through SQL optimization and indexing strategy.
-- Identified **$16K+** performance/revenue opportunity gaps through BI analysis and KPI storytelling.
-- Deployed **multiple reproducible data products** with **133+ automated tests** and CI-backed validation workflows.
----
-
-## 🎯 Target Roles
+## 🎯 Target Roles (What I can do from day one)
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### 🛠️ Data Engineer
-- ETL/ELT pipeline design and automation  
-- Data contracts and quality gates (Pandera)  
-- Analytics engineering with SQL, dbt, DuckDB  
-- Workflow reliability, testing, and CI/CD  
-- Reproducible data products from raw inputs to validated marts
+### 🛠️ Junior Data Engineer
+- Build and maintain reproducible ETL/ELT pipelines  
+- Implement data contracts and validation gates (Pandera)  
+- Develop analytics engineering layers with SQL, DuckDB, dbt  
+- Set up testing strategy and CI/CD reliability checks  
+- Deliver versioned, maintainable data artifacts + runbooks
 
   </td>
     <td width="50%" valign="top">
 
-### 📊 Data Analyst / BI Analyst
-- KPI modeling and business performance tracking  
-- Dashboard design for stakeholders and executive reporting  
-- Insight generation and decision-focused storytelling  
-- Exploratory data analysis (EDA) and trend interpretation  
-- Translating technical outputs into clear business actions
+### 📊 Junior Data Analyst / BI Analyst
+- Define and monitor KPI frameworks tied to business goals  
+- Build executive-ready dashboards (Power BI) for decisions  
+- Translate analysis into clear, action-oriented narratives  
+- Perform EDA and trend analysis for opportunity detection  
+- Support stakeholders with insight-to-action recommendations
 
   </td>
   </tr>
@@ -208,10 +217,14 @@ Deliver a recruiter-friendly profile that communicates both technical depth and 
 
 
 ---
-## 🚀 Featured Projects
+## 🚀 Featured Projects (Priority Order)
+
+
+### 🛠️ Data Engineer Track — Top Matches
+
 
 ### 🟫 [RideFare — Production Data & Pricing Intelligence Platform](https://github.com/Sam-24-dev/RideFare-ETL-Pipeline)
-**End-to-End Data Engineering + ML + Analytics Product**
+**Production-Style Data Engineering + ML + Analytics Product**
 
 > *From notebook-based analysis to a reproducible, production-style data product with public delivery.*
 
@@ -238,7 +251,7 @@ Deliver a recruiter-friendly profile that communicates both technical depth and 
 <br>
 
 ### 🔷 [Technology Trend Analysis Platform](https://github.com/Sam-24-dev/Technology-trend-analysis-platform)
-**End-to-End Multi-Source Data Engineering Platform**
+**Production-Style Multi-Source Data Engineering Platform**
 
 > *Tracking real-time developer technology trends by orchestrating data from GitHub, StackOverflow, and Reddit into a unified analytics engine.*
 
@@ -263,34 +276,11 @@ Deliver a recruiter-friendly profile that communicates both technical depth and 
 </div>
 
 ---
-## 📁 Other Key Projects
 
-### 🎮 [eSports Analytics Dashboard LATAM](https://github.com/Sam-24-dev/eSports-Analytics-Dashboard)
-**Status: Completed** | **Track: Data Engineer + Data Analyst**
-
-**Why it stands out:** End-to-end analytical product integrating relational data, ETL quality controls, ML projections, and dashboard delivery.
-
-- Built a full pipeline: **MySQL → Python ETL → validated JSON contracts → web dashboard**.
-- Integrated **Random Forest projections (2026)** to combine descriptive and predictive analytics.
-- Delivered reliable outputs with **126 automated tests** and CI-driven deployment.
-- Consolidated ecosystem visibility across teams, players, competitions, and prize performance.
-
-<div align="center">
-  <a href="https://github.com/Sam-24-dev/eSports-Analytics-Dashboard">
-    <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://sam-24-dev.github.io/eSports-Analytics-Dashboard/">
-    <img src="https://img.shields.io/badge/Live_Demo-View_Dashboard-0078D4?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<br>
+### 📊 Data Analyst / BI Track — Top Matches
 
 ### 📊 [Customer Profile Analytics Dashboard (Power BI)](https://github.com/Sam-24-dev/customer-profile-analytics-powerbi)
 **Status: Completed** | **Track: Data Analyst / BI Analyst**
-
-**Why it stands out:** Strong BI storytelling case from raw marketing records to executive-grade dashboarding.
 
 - Built a reproducible workflow: **raw dataset → Python preprocessing notebook → validated clean CSV → Power BI dashboard**.
 - Modeled customer behavior across demographics, household composition, tenure, and channels.
@@ -312,8 +302,6 @@ Deliver a recruiter-friendly profile that communicates both technical depth and 
 ### 🛒 Grocery Sales BI Dashboard *(Analytical Case)*
 **Status: Completed** | **Track: Data Analyst / BI Analyst**
 
-**Why it stands out:** Executive BI case focused on performance gaps, top revenue drivers, and market concentration.
-
 - Identified a **$16.66K performance gap** across seller performance.
 - Surfaced top revenue category with **$80.05K** for commercial prioritization.
 - Analyzed **23 active sellers**, with **Tulsa** highlighted as the strongest market.
@@ -327,10 +315,32 @@ Deliver a recruiter-friendly profile that communicates both technical depth and 
 
 <br>
 
-### 🌾 [Rice Crop Analytics Platform](https://github.com/Sam-24-dev/Analisis-Cultivo-Arroz)
+---
+
+## 📁 Additional Projects
+
+### 🎮 [eSports Analytics Dashboard LATAM](https://github.com/Sam-24-dev/eSports-Analytics-Dashboard)
 **Status: Completed** | **Track: Data Engineer + Data Analyst**
 
-**Why it stands out:** Agriculture-focused data product connecting ETL architecture with profitability and productivity strategy.
+- Built a full pipeline: **MySQL → Python ETL → validated JSON contracts → web dashboard**.
+- Integrated **Random Forest projections (2026)** to combine descriptive and predictive analytics.
+- Delivered reliable outputs with **126 automated tests** and CI-driven deployment.
+- Consolidated ecosystem visibility across teams, players, competitions, and prize performance.
+
+<div align="center">
+  <a href="https://github.com/Sam-24-dev/eSports-Analytics-Dashboard">
+    <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://sam-24-dev.github.io/eSports-Analytics-Dashboard/">
+    <img src="https://img.shields.io/badge/Live_Demo-View_Dashboard-0078D4?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+### 🌾 [Rice Crop Analytics Platform](https://github.com/Sam-24-dev/Analisis-Cultivo-Arroz)
+**Status: Completed** | **Track: Data Engineer + Data Analyst**
 
 - Engineered pipeline: **MySQL → Python ETL → JSON outputs → 5-view web dashboard**.
 - Modeled strategic recovery from **-5.58% ROI to +15% target** (**+20.6 pts**).
@@ -351,8 +361,6 @@ Deliver a recruiter-friendly profile that communicates both technical depth and 
 
 ### 🏓 [Statistical Analysis — Ping Pong Precision Model](https://github.com/Sam-24-dev/Analisis-Ping-Pong)
 **Status: Completed** | **Track: Data Analyst (Statistical Modeling)**
-
-**Why it stands out:** Reproducible statistical pipeline translating inferential analysis into web-delivered evidence.
 
 - Validated a **Negative Binomial model** with goodness-of-fit acceptance (**p = 0.6603**).
 - Processed **309 observations** and confirmed mean serve time under 2 seconds (**1.945s**).
