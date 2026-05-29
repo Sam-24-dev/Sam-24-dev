@@ -1,17 +1,17 @@
 <div align="center">
 
   <a href="https://portafolio-samir-tau.vercel.app/">
-    <img src="./assets/banner.png" alt="Samir Caizapasto - Data Analysis Specialist" width="100%" />
+    <img src="./assets/banners/profile-banner.png" alt="Samir Caizapasto - Junior Data Engineer and Data Analyst" width="100%" />
   </a>
 
-   <!-- Top Value Proposition Animation -->
+  <!-- Top Value Proposition Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=4000&color=A960FF&center=true&vCenter=true&width=850&height=60&lines=Turning+Data+into+Competitive+Advantage+%E2%9A%A1;ETL+Pipelines+%7C+Data+Engineering+%7C+Architecture+%F0%9F%9B%A0%EF%B8%8F;Business+Intelligence+%7C+Data+Analytics+%7C+Dashboarding+%F0%9F%93%8A" alt="Value Proposition" />
-  
+
   <br />
-  <h2>Junior Data Engineer &amp; Data Analyst | Open to Remote/Hybrid (LATAM/US)</h2>
-  <p>I build <strong>production-style data systems</strong> and <strong>decision-focused BI products</strong>.</p>
-  <p><strong>Impact highlights:</strong> <strong>133+ tests in CI</strong>, <strong>up to 40% faster SQL workloads</strong>, <strong>$16K+ performance gaps identified</strong>, <strong>1.2M+ records in ML pricing pipelines</strong>.</p>
-  <p>📍 Guayaquil, Ecuador · 🌎 Open to <strong>Remote / Hybrid</strong> opportunities</p> 
+  <h2>Junior Data Engineer &amp; Data Analyst | Building Reliable Pipelines + BI-Ready Data Products</h2>
+  <p>I turn messy, multi-source data into <strong>validated pipelines</strong>, <strong>analytics-ready models</strong>, and <strong>decision-focused dashboards</strong>.</p>
+  <p><strong>Proof of impact:</strong> <strong>133+ automated tests</strong> · <strong>1.2M+ records processed</strong> · <strong>up to 40% faster SQL workloads</strong> · <strong>$16.66K opportunity identified</strong></p>
+  <p>📍 Guayaquil, Ecuador · Open to <strong>Trainee / Junior Data Engineer</strong> and <strong>Data Analyst / BI Analyst</strong> roles · <strong>Remote / Hybrid LATAM-US</strong></p>
 
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
     <a href="https://portafolio-samir-tau.vercel.app/cv/SamirCaizapastoCV.pdf">
@@ -32,40 +32,58 @@
 
 ---
 
-## 🧭 Choose Your Track
+## ⚡ Recruiter Snapshot
+
+| Area | Signal |
+|:--|:--|
+| **Target roles** | Trainee / Junior Data Engineer · Data Analyst / BI Analyst |
+| **Main value** | I build reliable data pipelines and turn them into BI-ready decision products |
+| **Engineering proof** | 133+ tests · Pandera validation · DuckDB/dbt · CI/CD · scheduled workflows |
+| **Analytics proof** | Power BI dashboards · DAX · KPI modeling · revenue gap analysis |
+| **Business impact** | $16.66K opportunity identified · 1.2M+ records processed · up to 40% faster SQL workloads |
+| **Availability** | Remote / Hybrid · LATAM / US-friendly teams |
+
+---
+
+## 🧭 Dual Track Positioning
 
 <table>
   <tr>
     <td width="50%" valign="top">
-
-<h3>🛠️ Hire me as a Data Engineer</h3>
+      <h3>🛠️ Data Engineering Track</h3>
+      <p><strong>I build reproducible data systems with validation, testing, and automated delivery.</strong></p>
       <ul>
-        <li>ETL/ELT pipelines, data contracts, CI/CD</li>
-        <li>Pandera, DuckDB, dbt, SQL optimization</li>
-        <li>Reproducible CLI workflows and tested delivery</li>
+        <li>ETL/ELT pipeline development.</li>
+        <li>Data contracts and quality gates with Pandera.</li>
+        <li>DuckDB/dbt analytical transformation layers.</li>
+        <li>CI/CD validation and scheduled refresh workflows.</li>
+        <li>Versioned artifacts and runbooks for maintainable delivery.</li>
       </ul>
       <p>🔗 <strong>Best-fit projects:</strong></p>
       <ul>
-        <li><a href="https://ride-fare-etl-pipeline-web.vercel.app/">RideFare — Production Data &amp; Pricing Intelligence</a></li>
+        <li><a href="https://ride-fare-etl-pipeline-web.vercel.app/">RideFare — Pricing Intelligence Platform</a></li>
         <li><a href="https://sam-24-dev.github.io/Technology-trend-analysis-platform/">Technology Trend Analysis Platform</a></li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 Hire me as a Data Analyst / BI Analyst</h3>
+      <h3>📊 Data Analysis / BI Track</h3>
+      <p><strong>I translate data into KPI models, dashboards, and business recommendations.</strong></p>
       <ul>
-        <li>KPI modeling, dashboard storytelling, executive reporting</li>
-        <li>Power BI, SQL, Python preprocessing</li>
-        <li>Business insights translated into action plans</li>
+        <li>KPI definition and business metric modeling.</li>
+        <li>Power BI dashboards for executive reporting.</li>
+        <li>DAX measures and storytelling layouts.</li>
+        <li>Customer, seller and market segmentation.</li>
+        <li>Insight-to-action recommendations for stakeholders.</li>
       </ul>
       <p>🔗 <strong>Best-fit projects:</strong></p>
       <ul>
-        <li><a href="https://app.powerbi.com/view?r=eyJrIjoiNzE3YmU3ZDktN2M3Yi00ODY5LTk2OTktOGI0NmE3YmU1ZDdiIiwidCI6ImI3YWY4Y2FmLTgzZDgtNDY0NC04NWFlLTMxN2M1NDUyMjNjMSIsImMiOjR9&pageName=b29252d974b9cb52bd7f">Customer Profile Analytics Dashboard (Power BI)</a></li>
+        <li><a href="https://app.powerbi.com/view?r=eyJrIjoiNzE3YmU3ZDktN2M3Yi00ODY5LTk2OTktOGI0NmE3YmU1ZDdiIiwidCI6ImI3YWY4Y2FmLTgzZDgtNDY0NC04NWFlLTMxN2M1NDUyMjNjMSIsImMiOjR9&pageName=b29252d974b9cb52bd7f">Customer Profile Analytics Dashboard</a></li>
+        <li><a href="https://app.powerbi.com/view?r=eyJrIjoiOTk5YTE0MjItZTNiOC00ZmI0LWI1NDUtZDY2ZThjZTYxYmQ0IiwidCI6ImI3YWY4Y2FmLTgzZDgtNDY0NC04NWFlLTMxN2M1NDUyMjNjMSIsImMiOjR9">Grocery Sales BI Dashboard</a></li>
         <li><a href="https://sam-24-dev.github.io/eSports-Analytics-Dashboard/">eSports Analytics Dashboard LATAM</a></li>
       </ul>
     </td>
   </tr>
 </table>
-
 
 ---
 
@@ -85,154 +103,40 @@
 
 ---
 
-## 📌 BI / Analytics Business Cases
+## 🧪 Portfolio Quality Index
 
-### Case 1 — Seller Performance Gap (Revenue Uplift)
-**Business problem:** Uneven seller performance was reducing total revenue potential.  
-**Analysis performed:** Segmentation by seller contribution, variance analysis, and gap quantification using Power BI + DAX.  
-**Impact:** Identified a **$16.66K** performance opportunity and prioritized intervention areas.
+Automated audit of flagship projects (CI/CD, tests, docs, demos, and latest updates).
 
-### Case 2 — Customer Value & Premium Spend Behavior
-**Business problem:** Marketing needed clearer targeting of high-value customer segments.  
-**Analysis performed:** Behavioral profiling by demographics, household structure, tenure, and channel mix.  
-**Impact:** Highlighted premium-spend segments and enabled more focused campaign planning.
+<!-- PORTFOLIO-QUALITY:START -->
 
-### Case 3 — Executive Dashboard Decision Layer
-**Business problem:** Stakeholders lacked a concise decision view across KPIs.  
-**Analysis performed:** Built desktop/mobile KPI dashboards with narrative flow (context → insight → action).  
-**Impact:** Reduced reporting friction and improved decision speed for non-technical audiences.
+| Project | CI/CD | Tests | Docs | Demo | Last update | Signal |
+|:--|:--:|:--:|:--:|:--:|:--:|:--|
+| [RideFare](https://github.com/Sam-24-dev/RideFare-ETL-Pipeline) | ✅ | ✅ | [✅](https://github.com/Sam-24-dev/RideFare-ETL-Pipeline/blob/master/docs/arquitectura.png) | [✅](https://ride-fare-etl-pipeline-web.vercel.app/) | 2026-05-11 | CLI pipeline · Pandera · DuckDB/dbt · ML artifacts |
+| [Technology Trends](https://github.com/Sam-24-dev/Technology-trend-analysis-platform) | ✅ | ✅ | [✅](https://github.com/Sam-24-dev/Technology-trend-analysis-platform/blob/main/docs/architecture/data-pipeline-architecture.png) | [✅](https://sam-24-dev.github.io/Technology-trend-analysis-platform/) | 2026-05-25 | Multi-source ETL · data contracts · scheduled refresh |
+| [Customer Profile](https://github.com/Sam-24-dev/customer-profile-analytics-powerbi) | — | — | [✅](https://github.com/Sam-24-dev/customer-profile-analytics-powerbi#readme) | [✅](https://app.powerbi.com/view?r=eyJrIjoiNzE3YmU3ZDktN2M3Yi00ODY5LTk2OTktOGI0NmE3YmU1ZDdiIiwidCI6ImI3YWY4Y2FmLTgzZDgtNDY0NC04NWFlLTMxN2M1NDUyMjNjMSIsImMiOjR9&pageName=b29252d974b9cb52bd7f) | 2026-04-11 | Python preprocessing · Power BI semantic model |
+| [Grocery Sales BI](https://app.powerbi.com/view?r=eyJrIjoiOTk5YTE0MjItZTNiOC00ZmI0LWI1NDUtZDY2ZThjZTYxYmQ0IiwidCI6ImI3YWY4Y2FmLTgzZDgtNDY0NC04NWFlLTMxN2M1NDUyMjNjMSIsImMiOjR9) | — | — | — | [✅](https://app.powerbi.com/view?r=eyJrIjoiOTk5YTE0MjItZTNiOC00ZmI0LWI1NDUtZDY2ZThjZTYxYmQ0IiwidCI6ImI3YWY4Y2FmLTgzZDgtNDY0NC04NWFlLTMxN2M1NDUyMjNjMSIsImMiOjR9) | — | Revenue gap analysis · KPI modeling |
+
+<!-- PORTFOLIO-QUALITY:END -->
 
 ---
 
-## 👋 About Me
+## 🚀 Featured Projects
 
-**Junior Data Engineer & Data Analyst** | **Computer Engineering Student (ESPOL, 7th semester)**
+### 🟫 [RideFare — Production-Style Pricing Intelligence Platform](https://github.com/Sam-24-dev/RideFare-ETL-Pipeline)
 
-I build **production-style, reproducible data products** that combine engineering reliability with business decision impact.  
-I work across the full cycle: ingestion, transformation, validation, analytics modeling, and stakeholder-facing BI delivery.
+**Self-directed Data Engineering · ML · Analytics Product**
 
-### What I bring
-- **Built** ETL/ELT workflows with **Pandera validation**, automated testing, and CI/CD quality gates.
-- **Implemented** SQL transformation layers and indexing strategies, improving analytical query performance by up to **40%**.
-- **Delivered** KPI-driven BI outputs that identified **$16.66K** performance opportunities for business action.
-- **Modeled** applied ML pipelines (e.g., pricing) over **1.2M+ records** with explainability artifacts for transparent decisions.
-- **Automated** reproducible delivery flows from raw data to dashboard/web-ready outputs.
-
----
-
-## 🎯 Target Roles (What I can do from day one)
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🛠️ Junior Data Engineer
-- Build and maintain reproducible ETL/ELT pipelines  
-- Implement data contracts and validation gates (Pandera)  
-- Develop analytics engineering layers with SQL, DuckDB, dbt  
-- Set up testing strategy and CI/CD reliability checks  
-- Deliver versioned, maintainable data artifacts + runbooks
-
-  </td>
-    <td width="50%" valign="top">
-
-### 📊 Junior Data Analyst / BI Analyst
-- Define and monitor KPI frameworks tied to business goals  
-- Build executive-ready dashboards (Power BI) for decisions  
-- Translate analysis into clear, action-oriented narratives  
-- Perform EDA and trend analysis for opportunity detection  
-- Support stakeholders with insight-to-action recommendations
-
-  </td>
-  </tr>
-</table>
-
----
-
-## 🔭 Current Focus
-
-<table>
-  <tr>
-    <td>📘 <b>Certification Track</b></td>
-    <td><b>PL-300: Microsoft Power BI Data Analyst</b> — Strengthening advanced modeling, DAX, and business storytelling for decision-focused dashboards.</td>
-  </tr>
-  <tr>
-    <td>☁️ <b>Learning Path</b></td>
-    <td><b>Cloud + dbt</b> — Building stronger foundations in modern data stack practices, transformation workflows, and analytics engineering standards.</td>
-  </tr>
-  <tr>
-    <td>🧩 <b>Career Optimization</b></td>
-    <td><b>Portfolio optimization for job applications</b> — refining project narratives, measurable impact, and recruiter-facing positioning for Junior Data Engineer / Data Analyst opportunities.</td>
-  </tr>
-</table>
-
----
-## 🚧 Current Focus Project
-### Portfolio Refactor — Dual Track Positioning (Data Engineer + Data Analyst)
-
-**Status: In progress**
-
-I am currently refactoring this portfolio repository to present my two professional tracks in a clearer and more strategic way:
-
-- **Data Engineer Track:** featured projects focused on ETL/ELT, data quality, analytics engineering, reproducible pipelines, testing, and CI/CD.
-- **Data Analyst / BI Track:** featured projects focused on KPI modeling, dashboard storytelling, business insights, and executive reporting.
-
-### Current Workstreams
-- Restructuring project sections to make each role path explicit for recruiters and ATS.
-- Improving content hierarchy (impact first, stack second, implementation third).
-- Standardizing project maturity labels (**Production-ready / Active maintenance / Completed**).
-- Polishing responsive design for **mobile and desktop** readability.
-- Strengthening call-to-action messaging for Junior Data Engineer / Data Analyst opportunities.
-
-### Goal
-Deliver a recruiter-friendly profile that communicates both technical depth and business impact in under 60 seconds.
-
----
-
-## 🌎 Spoken Languages
+> End-to-end pipeline modernization with reproducible commands, validation, ML artifacts and public delivery.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Spanish-Native-EA4335?style=for-the-badge" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/English-B1_Intermediate-0A66C2?style=for-the-badge" />
-  <br>
-  <i>Actively preparing for C1 certification</i>
+  <img src="./assets/thumbnails/ridefare-preview.png" alt="RideFare preview" width="100%" />
 </div>
 
----
-## 🏆 Certifications & Awards
-
-<div align="center">
-
-| 🎖️ Certification / Award | 🏢 Issuer | 📅 Status / Date | 🔗 Link |
-|:---|:---|:---:|:---:|
-| 📗 **Microsoft Office Specialist: Excel Associate (Microsoft 365 Apps)** | Microsoft | Issued: Mar 2026 | [📄 Credential](https://www.credly.com/badges/7ba4ed36-3918-4cc3-9661-8fa869b022ed) |
-| 📊 **Data Analyst Associate** | DataCamp | Issued: Mar 2026 | [📄 Credential](https://www.datacamp.com/certificate/DAA0019896448643) |
-| 🛠️ **ETL y ELT en Python** | DataCamp | Issued: Mar 2026 | [📄 Credential](https://www.datacamp.com/statement-of-accomplishment/course/cf1b953a1835bd22e0acf97bf28d289ffc151ed2?raw=1) |
-| 🌍 **Galactic Problem Solver** — Global Nominee | NASA Space Apps Challenge | Oct 2025 | [📄 View](https://portafolio-samir-tau.vercel.app/certificates/nasa-space-apps-2025.pdf) |
-| 🤖 **Desarrollo con IA: de 0 a Producción** | BIG school | Issued: Mar 2026 | [📜 Credential](https://certificados.thebigschool.com/wp-content/uploads/certs/MDEV2/Certificado-Samir-Leonardo-Caizapasto-Hernandez-5gqmvau5.pdf) |
-| 📊 **Data-Driven Decision Specialist** *(Bootcamp)* | ESPOL & MINTEL | Completed (Graduation: Apr 2026) | [⭐ Top Project](https://sam-24-dev.github.io/eSports-Analytics-Dashboard/) |
-
-</div>
-
-
----
-## 🚀 Featured Projects (Priority Order)
-
-
-### 🛠️ Data Engineer Track — Top Matches
-
-
-### 🟫 [RideFare — Production Data & Pricing Intelligence Platform](https://github.com/Sam-24-dev/RideFare-ETL-Pipeline)
-**Production-Style Data Engineering + ML + Analytics Product**
-
-> *From notebook-based analysis to a reproducible, production-style data product with public delivery.*
-
-- **Pipeline Modernization:** Rebuilt legacy notebook flow into reproducible commands (`ridefare ingest`, `transform`, `train`, `export-web`) with clear operational interfaces.
-- **Data Quality by Design:** Implemented schema and validation controls with **Pandera**, stable transformations with **DuckDB + dbt**, and versioned public artifacts.
-- **Explainable ML Delivery:** Trained and exported **XGBoost + SHAP** artifacts for transparent model behavior and scenario exploration.
-- **Public Product Interface:** Delivered a Spanish-language **Next.js** web experience (`/dashboard`, `/como-funciona`, `/escenarios`) powered by deterministic exported JSON.
-- **Automation & Deployment:** Integrated CI validation, artifact refresh workflows, preview/prod deploy pipelines, and release automation.
+- **Problem:** Ride pricing analysis started as a notebook-style workflow with limited reproducibility and weak delivery structure.
+- **Built:** CLI-based pipeline stages for ingestion, transformation, training and web export (`ridefare ingest`, `transform`, `train`, `export-web`).
+- **Engineering work:** Pandera validation, DuckDB/dbt transformations, XGBoost + SHAP explainability, CI checks, deterministic JSON exports, preview/prod deploy pipelines and release automation.
+- **Impact:** Production-style pricing intelligence platform processing **1.2M+ records** with public demo routes and transparent ML outputs.
+- **Stack:** Python, Pandera, DuckDB, dbt, XGBoost, SHAP, GitHub Actions, Next.js.
 
 <div align="center">
   <a href="https://github.com/Sam-24-dev/RideFare-ETL-Pipeline">
@@ -251,15 +155,25 @@ Deliver a recruiter-friendly profile that communicates both technical depth and 
 <br>
 
 ### 🔷 [Technology Trend Analysis Platform](https://github.com/Sam-24-dev/Technology-trend-analysis-platform)
-**Production-Style Multi-Source Data Engineering Platform**
+**Self-directed Data Engineering · Analytics Engineering**
 
-> *Tracking real-time developer technology trends by orchestrating data from GitHub, StackOverflow, and Reddit into a unified analytics engine.*
+> Multi-source ETL platform with data contracts, CI/CD, DuckDB analytics and dashboard delivery.
 
-* **🌐 Multi-Source ETL:** Consolidates developer signals from **GitHub, StackOverflow, and Reddit** into a canonical pipeline.
-* **🛡️ Data Quality Gates:** Enforces schema and validation rules with **Pandera data contracts**.
-* **⚡ Modern Analytics Engine:** Uses **DuckDB** for trend computation, ranking, and lightweight analytical workloads.
-* **✅ Production Discipline:** **133+ passing tests** with automated **CI/CD** workflows and scheduled refreshes.
-* **📱 Delivery Layer:** Serves insights to a **Flutter Web dashboard** with stable bridge outputs for frontend consumption.
+<div align="center">
+  <img src="./assets/thumbnails/tech-trends-preview.png" alt="Technology Trends preview" width="100%" />
+</div>
+
+- **Problem:** Developer trend signals are fragmented across GitHub, StackOverflow and Reddit.
+- **Built:** Unified analytics platform for ingesting, validating, transforming and exposing trend metrics.
+- **Engineering work:** Python ETL, Pandera data contracts, DuckDB analytical transformations, CI/CD validation, scheduled refresh workflows and frontend-ready outputs.
+- **Impact:** **133+ passing tests**, automated quality gates and public dashboard for technology ranking and monitoring.
+- **Stack:** Python, Pandera, DuckDB, GitHub Actions, Flutter Web, APIs.
+
+<div align="center">
+  <a href="https://github.com/Sam-24-dev/Technology-trend-analysis-platform/blob/main/docs/architecture/data-pipeline-architecture.png">
+    <img src="./assets/architecture/tech-trends-architecture.png" alt="Technology Trend Analysis Platform architecture" width="100%" />
+  </a>
+</div>
 
 <div align="center">
   <a href="https://github.com/Sam-24-dev/Technology-trend-analysis-platform">
@@ -275,17 +189,22 @@ Deliver a recruiter-friendly profile that communicates both technical depth and 
   </a>
 </div>
 
----
-
-### 📊 Data Analyst / BI Track — Top Matches
+<br>
 
 ### 📊 [Customer Profile Analytics Dashboard (Power BI)](https://github.com/Sam-24-dev/customer-profile-analytics-powerbi)
-**Status: Completed** | **Track: Data Analyst / BI Analyst**
+**Bootcamp-backed BI Case · Independently polished for portfolio delivery**
 
-- Built a reproducible workflow: **raw dataset → Python preprocessing notebook → validated clean CSV → Power BI dashboard**.
-- Modeled customer behavior across demographics, household composition, tenure, and channels.
-- Delivered **desktop + mobile** report layouts for stakeholder-ready consumption.
-- Produced a clear commercial narrative around high-value segments and premium spend behavior.
+> Customer segmentation, KPI storytelling and stakeholder-ready Power BI reporting.
+
+<div align="center">
+  <img src="./assets/thumbnails/customer-profile-preview.png" alt="Customer Profile preview" width="100%" />
+</div>
+
+- **Problem:** Business stakeholders needed a clearer view of customer value, premium spending behavior and segment-level opportunities.
+- **Built:** Reproducible workflow from raw dataset to Python preprocessing, clean CSV and Power BI dashboard.
+- **Analytics work:** DAX measures, customer segmentation, desktop/mobile layouts and executive narrative from context to insight to action.
+- **Impact:** Decision-focused dashboard supporting campaign planning through clear KPI storytelling and premium-spend segment discovery.
+- **Stack:** Power BI, DAX, Python, data cleaning, KPI modeling, dashboard storytelling.
 
 <div align="center">
   <a href="https://github.com/Sam-24-dev/customer-profile-analytics-powerbi">
@@ -300,12 +219,16 @@ Deliver a recruiter-friendly profile that communicates both technical depth and 
 <br>
 
 ### 🛒 Grocery Sales BI Dashboard *(Analytical Case)*
-**Status: Completed** | **Track: Data Analyst / BI Analyst**
 
-- Identified a **$16.66K performance gap** across seller performance.
-- Surfaced top revenue category with **$80.05K** for commercial prioritization.
-- Analyzed **23 active sellers**, with **Tulsa** highlighted as the strongest market.
-- Built with **Power BI + DAX + Excel** to deliver a concise decision-making dashboard.
+**BI / Revenue Opportunity Analysis**
+
+> Commercial KPI analysis with measurable revenue gap identification.
+
+- **Problem:** Seller performance varied significantly across markets and categories, reducing total revenue potential.
+- **Built:** Power BI dashboard with seller segmentation, revenue comparison, category analysis and market-level performance views.
+- **Analytics work:** DAX measures, KPI modeling, seller contribution analysis, variance analysis and commercial prioritization.
+- **Impact:** Identified a **$16.66K seller performance gap**, surfaced a top revenue category worth **$80.05K**, analyzed **23 active sellers** and highlighted **Tulsa** as the strongest market.
+- **Stack:** Power BI, DAX, Excel, KPI analysis, revenue analytics.
 
 <div align="center">
   <a href="https://app.powerbi.com/view?r=eyJrIjoiOTk5YTE0MjItZTNiOC00ZmI0LWI1NDUtZDY2ZThjZTYxYmQ0IiwidCI6ImI3YWY4Y2FmLTgzZDgtNDY0NC04NWFlLTMxN2M1NDUyMjNjMSIsImMiOjR9">
@@ -313,19 +236,22 @@ Deliver a recruiter-friendly profile that communicates both technical depth and 
   </a>
 </div>
 
-<br>
-
 ---
 
 ## 📁 Additional Projects
 
 ### 🎮 [eSports Analytics Dashboard LATAM](https://github.com/Sam-24-dev/eSports-Analytics-Dashboard)
-**Status: Completed** | **Track: Data Engineer + Data Analyst**
+
+**Hybrid Data Engineering + Analytics delivery for the LATAM eSports ecosystem.**
+
+<div align="center">
+  <img src="./assets/thumbnails/esports-preview.png" alt="eSports Analytics preview" width="100%" />
+</div>
 
 - Built a full pipeline: **MySQL → Python ETL → validated JSON contracts → web dashboard**.
 - Integrated **Random Forest projections (2026)** to combine descriptive and predictive analytics.
 - Delivered reliable outputs with **126 automated tests** and CI-driven deployment.
-- Consolidated ecosystem visibility across teams, players, competitions, and prize performance.
+- Consolidated visibility across teams, players, competitions, and prize performance.
 
 <div align="center">
   <a href="https://github.com/Sam-24-dev/eSports-Analytics-Dashboard">
@@ -340,7 +266,8 @@ Deliver a recruiter-friendly profile that communicates both technical depth and 
 <br>
 
 ### 🌾 [Rice Crop Analytics Platform](https://github.com/Sam-24-dev/Analisis-Cultivo-Arroz)
-**Status: Completed** | **Track: Data Engineer + Data Analyst**
+
+**Operational analytics platform combining ETL outputs, KPI views and strategic recovery modeling.**
 
 - Engineered pipeline: **MySQL → Python ETL → JSON outputs → 5-view web dashboard**.
 - Modeled strategic recovery from **-5.58% ROI to +15% target** (**+20.6 pts**).
@@ -360,7 +287,8 @@ Deliver a recruiter-friendly profile that communicates both technical depth and 
 <br>
 
 ### 🏓 [Statistical Analysis — Ping Pong Precision Model](https://github.com/Sam-24-dev/Analisis-Ping-Pong)
-**Status: Completed** | **Track: Data Analyst (Statistical Modeling)**
+
+**Statistical modeling case packaged into dashboard-ready JSON/PNG outputs and a lightweight web report.**
 
 - Validated a **Negative Binomial model** with goodness-of-fit acceptance (**p = 0.6603**).
 - Processed **309 observations** and confirmed mean serve time under 2 seconds (**1.945s**).
@@ -380,7 +308,8 @@ Deliver a recruiter-friendly profile that communicates both technical depth and 
 <br>
 
 ### 🛰️ [NASA Space Apps Challenge 2025 — Weather for All](https://github.com/JairPalaguachi/Probability)
-**Status: Completed** | **Track: Full-Stack + Applied Analytics**
+
+**48-hour full-stack + applied analytics MVP recognized as a NASA Space Apps Global Nominee.**
 
 - Built MVP in **48 hours** during NASA Space Apps Challenge.
 - Processed **10 years** of climate-related data for **195+ countries**.
@@ -418,17 +347,72 @@ Deliver a recruiter-friendly profile that communicates both technical depth and 
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Certifications & Awards
 
 <div align="center">
-  <img height="180em" src="https://my-github-stats-woad.vercel.app/api/top-langs/?username=Sam-24-dev&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" />
-  
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Sam-24-dev&theme=tokyonight&hide_border=true" />
+
+| 🎖️ Certification / Award | 🏢 Issuer | 📅 Status / Date | 🔗 Link |
+|:---|:---|:---:|:---:|
+| 📗 **Microsoft Office Specialist: Excel Associate (Microsoft 365 Apps)** | Microsoft | Issued: Mar 2026 | [📄 Credential](https://www.credly.com/badges/7ba4ed36-3918-4cc3-9661-8fa869b022ed) |
+| 📊 **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** | Microsoft | Credential verified | [📄 Credential](https://learn.microsoft.com/es-es/users/samirleonardocaizapastohernandez-2266/credentials/a021695b53220029) |
+| 📊 **Data Analyst Associate** | DataCamp | Issued: Mar 2026 | [📄 Credential](https://www.datacamp.com/certificate/DAA0019896448643) |
+| 🛠️ **ETL y ELT en Python** | DataCamp | Issued: Mar 2026 | [📄 Credential](https://www.datacamp.com/statement-of-accomplishment/course/cf1b953a1835bd22e0acf97bf28d289ffc151ed2?raw=1) |
+| 🌍 **Galactic Problem Solver** — Global Nominee | NASA Space Apps Challenge | Oct 2025 | [📄 View](https://portafolio-samir-tau.vercel.app/certificates/nasa-space-apps-2025.pdf) |
+| 🤖 **Desarrollo con IA: de 0 a Producción** | BIG school | Issued: Mar 2026 | [📜 Credential](https://certificados.thebigschool.com/wp-content/uploads/certs/MDEV2/Certificado-Samir-Leonardo-Caizapasto-Hernandez-5gqmvau5.pdf) |
+| 📊 **Data-Driven Decision Specialist** *(Bootcamp)* | ESPOL & MINTEL | Credential verified | [📄 Credential](https://www.acreditta.com/credential/9a908bad-12b0-4134-99ea-06ca940a92e3?utm_source=copy&resource_type=badge&resource=9a908bad-12b0-4134-99ea-06ca940a92e3)<br>[⭐ Top Project](https://sam-24-dev.github.io/eSports-Analytics-Dashboard/) |
+
 </div>
 
 ---
 
-## ⏱️ Weekly Coding Activity
+## 🌎 Spoken Languages
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Spanish-Native-EA4335?style=for-the-badge" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/English-B1_Intermediate-0A66C2?style=for-the-badge" />
+  <br>
+  <i>Actively preparing for C1 certification</i>
+</div>
+
+---
+
+## 👋 About Me
+
+**Junior Data Engineer & Data Analyst** | **Computer Engineering Student (ESPOL, 8th semester)**
+
+I’m a Computer Engineering student at ESPOL, currently in my 8th semester, building a dual-track data career across **Data Engineering** and **Business Intelligence**. My strongest focus is designing reliable, reproducible data pipelines with validation, testing and automated delivery, while also translating analytical outputs into dashboards and business recommendations.
+
+### What I bring
+
+- Self-directed Data Engineering projects with ETL/ELT workflows, Pandera validation, automated testing and CI/CD quality gates.
+- Analytics engineering foundations with SQL, DuckDB/dbt concepts, transformation layers and query optimization.
+- BI/Data Analysis delivery through Power BI, DAX, KPI modeling, customer segmentation and revenue opportunity analysis.
+- Portfolio-grade data products that connect raw data, validated artifacts, dashboards and clear stakeholder narratives.
+
+---
+
+## 🔭 Current Focus
+
+| Focus Area | Current Work |
+|:--|:--|
+| 📊 **Applied BI delivery** | Strengthening Power BI modeling, DAX and business storytelling through stakeholder-ready dashboard projects. |
+| ☁️ **Cloud + dbt learning path** | Building stronger foundations in modern data stack practices, transformation workflows and analytics engineering standards. |
+| 🧩 **Portfolio refinement** | Improving project narratives, measurable impact and recruiter-facing positioning for Junior Data Engineer / Data Analyst opportunities. |
+
+---
+
+<details>
+<summary><strong>📊 GitHub Activity, WakaTime & Contribution Snake</strong></summary>
+
+### GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://my-github-stats-woad.vercel.app/api/top-langs/?username=Sam-24-dev&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Sam-24-dev&theme=tokyonight&hide_border=true" />
+</div>
+
+### Weekly Coding Activity
 
 <div align="center">
 
@@ -442,16 +426,13 @@ Deliver a recruiter-friendly profile that communicates both technical depth and 
 
 </div>
 
----
-
-## 📈 Contribution Trend
+### Contribution Trend
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sam-24-dev&theme=tokyonight&hide_border=true&area=true&bg_color=1a1b27&color=70a5fd&line=38bdae&point=89ddff&title_color=c0caf5&axes_color=a9b1d6" width="100%" />
 </div>
----
 
-## 🐍 Contribution Snake
+### Contribution Snake
 
 <div align="center">
   <picture>
@@ -461,20 +442,23 @@ Deliver a recruiter-friendly profile that communicates both technical depth and 
   </picture>
 </div>
 
+</details>
+
 ---
-### 🤝 Let’s Connect
+
+## 🤝 Let’s Connect
 
 **Open to Junior Data Engineer / Data Analyst roles (remote/hybrid, LATAM/US).**
 
 I’m ready to contribute from day one in data pipeline automation, analytics engineering, and decision-focused BI.
 
-<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
-    <a href="https://portafolio-samir-tau.vercel.app/cv/SamirCaizapastoCV.pdf">
-      <img src="https://img.shields.io/badge/📄_Resume-Download_CV-2b3137?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
-    </a>
+<div align="center">
+  <a href="https://portafolio-samir-tau.vercel.app/cv/SamirCaizapastoCV.pdf">
+    <img src="https://img.shields.io/badge/📄_Resume-Download_CV-2b3137?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
+  </a>
   <a href="https://portafolio-samir-tau.vercel.app/">
-      <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-success?style=for-the-badge&logo=vercel&logoColor=white" />
-    </a>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-success?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/samir-caizapasto/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -483,10 +467,7 @@ I’m ready to contribute from day one in data pipeline automation, analytics en
   </a>
 </div>
 
-
 <!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sam-24-dev&label=Profile%20Views&color=A960FF&style=flat" alt="Profile Views" />
 </p>
-
-</div>

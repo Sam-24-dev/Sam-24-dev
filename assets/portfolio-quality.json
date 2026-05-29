@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "name": "RideFare",
+      "project_url": "https://github.com/Sam-24-dev/RideFare-ETL-Pipeline",
+      "repo": "Sam-24-dev/RideFare-ETL-Pipeline",
+      "ci": true,
+      "tests": true,
+      "docs": "https://github.com/Sam-24-dev/RideFare-ETL-Pipeline/blob/master/docs/arquitectura.png",
+      "demo": "https://ride-fare-etl-pipeline-web.vercel.app/",
+      "signal": "CLI pipeline · Pandera · DuckDB/dbt · ML artifacts"
+    },
+    {
+      "name": "Technology Trends",
+      "project_url": "https://github.com/Sam-24-dev/Technology-trend-analysis-platform",
+      "repo": "Sam-24-dev/Technology-trend-analysis-platform",
+      "ci": true,
+      "tests": true,
+      "docs": "https://github.com/Sam-24-dev/Technology-trend-analysis-platform/blob/main/docs/architecture/data-pipeline-architecture.png",
+      "demo": "https://sam-24-dev.github.io/Technology-trend-analysis-platform/",
+      "signal": "Multi-source ETL · data contracts · scheduled refresh"
+    },
+    {
+      "name": "Customer Profile",
+      "project_url": "https://github.com/Sam-24-dev/customer-profile-analytics-powerbi",
+      "repo": "Sam-24-dev/customer-profile-analytics-powerbi",
+      "ci": false,
+      "tests": false,
+      "docs": "https://github.com/Sam-24-dev/customer-profile-analytics-powerbi#readme",
+      "demo": "https://app.powerbi.com/view?r=eyJrIjoiNzE3YmU3ZDktN2M3Yi00ODY5LTk2OTktOGI0NmE3YmU1ZDdiIiwidCI6ImI3YWY4Y2FmLTgzZDgtNDY0NC04NWFlLTMxN2M1NDUyMjNjMSIsImMiOjR9&pageName=b29252d974b9cb52bd7f",
+      "signal": "Python preprocessing · Power BI semantic model"
+    },
+    {
+      "name": "Grocery Sales BI",
+      "project_url": "https://app.powerbi.com/view?r=eyJrIjoiOTk5YTE0MjItZTNiOC00ZmI0LWI1NDUtZDY2ZThjZTYxYmQ0IiwidCI6ImI3YWY4Y2FmLTgzZDgtNDY0NC04NWFlLTMxN2M1NDUyMjNjMSIsImMiOjR9",
+      "repo": null,
+      "ci": false,
+      "tests": false,
+      "docs": null,
+      "demo": "https://app.powerbi.com/view?r=eyJrIjoiOTk5YTE0MjItZTNiOC00ZmI0LWI1NDUtZDY2ZThjZTYxYmQ0IiwidCI6ImI3YWY4Y2FmLTgzZDgtNDY0NC04NWFlLTMxN2M1NDUyMjNjMSIsImMiOjR9",
+      "signal": "Revenue gap analysis · KPI modeling"
+    }
+  ]
+}
