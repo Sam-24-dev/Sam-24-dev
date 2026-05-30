@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 4 * * 1"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
 
 permissions:
   contents: read
@@ -22,6 +27,7 @@ jobs:
             --no-progress
             --verbose
             --exclude-mail
+            --exclude "https://www.linkedin.com/.*"
             --timeout 20
             README.md
           fail: true

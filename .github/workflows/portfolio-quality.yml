@@ -4,6 +4,13 @@ on:
   schedule:
     - cron: "0 3 * * 1"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+      - assets/portfolio-quality.json
+      - scripts/update_portfolio_quality.py
 
 permissions:
   contents: write

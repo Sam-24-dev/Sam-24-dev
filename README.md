@@ -358,7 +358,7 @@ Automated audit of flagship projects (CI/CD, tests, docs, demos, and latest upda
 | 📊 **Data Analyst Associate** | DataCamp | Issued: Mar 2026 | [📄 Credential](https://www.datacamp.com/certificate/DAA0019896448643) |
 | 🛠️ **ETL y ELT en Python** | DataCamp | Issued: Mar 2026 | [📄 Credential](https://www.datacamp.com/statement-of-accomplishment/course/cf1b953a1835bd22e0acf97bf28d289ffc151ed2?raw=1) |
 | 🌍 **Galactic Problem Solver** — Global Nominee | NASA Space Apps Challenge | Oct 2025 | [📄 View](https://portafolio-samir-tau.vercel.app/certificates/nasa-space-apps-2025.pdf) |
-| 🤖 **Desarrollo con IA: de 0 a Producción** | BIG school | Issued: Mar 2026 | [📜 Credential](https://certificados.thebigschool.com/wp-content/uploads/certs/MDEV2/Certificado-Samir-Leonardo-Caizapasto-Hernandez-5gqmvau5.pdf) |
+| 🤖 **Curso de IA: De 0 a Agentes** | BIG school | Issued: Mar 2026 | [📜 Credential](https://certificados.thebigschool.com/wp-content/uploads/certs/MIA6/Certificado-Samir-Leonardo-Caizapasto-Hernandez-7zln8cny.pdf) |
 | 📊 **Data-Driven Decision Specialist** *(Bootcamp)* | ESPOL & MINTEL | Credential verified | [📄 Credential](https://www.acreditta.com/credential/9a908bad-12b0-4134-99ea-06ca940a92e3?utm_source=copy&resource_type=badge&resource=9a908bad-12b0-4134-99ea-06ca940a92e3)<br>[⭐ Top Project](https://sam-24-dev.github.io/eSports-Analytics-Dashboard/) |
 
 </div>
